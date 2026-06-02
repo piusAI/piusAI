@@ -1,10 +1,10 @@
-# 💨 Technical Artist | Bridging Art and Technology
+# 💨 Gameplay Technical Artist | Bridging Art and Technology
 
-"C++ 아키텍처와 그래픽스 기술을 바탕으로 상호작용과 액션의 한계를 확장하는 코어 TA 황효준입니다."
+"C++ 아키텍처와 그래픽스 기술을 바탕으로 상호작용과 액션의 한계를 확장하는 Technical Artist입니다."
 
-Unreal Engine C++, Animation System, Houdini, AI 파이프라인 기술을 융합하여 아티스트의 표현력을 극대화하고 게임플레이의 손맛을 완성합니다.
+Unreal Engine C++, Animation System, Houdini, AI 기술을 융합하여 아티스트의 표현력을 극대화하고 게임플레이의 손맛을 완성합니다.
 
-단순 리소스 제작을 넘어 Gameplay Ability System(GAS) 기반의 전투 프레임워크 구축, Context-Aware Animation 및 Motion Warping 커스텀 확장, AI-Assisted 에디터 플러그인 개발을 통해 AAA급 프로젝트에 최적화된 테크니컬 파이프라인 구축을 목표로 합니다.
+Gameplay Ability System(GAS), Context-Aware Animation, Motion Warping, Tool Development를 중심으로 차세대 인터랙티브 콘텐츠 제작 파이프라인 구축을 목표로 합니다.
 
 ## 🛠 Tech Stack
 ### Core
