@@ -1,10 +1,10 @@
 # 💨 Technical Artist | Bridging Art and Technology
 
-"Art와 Programming의 경계에서 기술로 창작의 가능성을 확장하는 TA 황효준입니다."
+"C++ 아키텍처와 그래픽스 기술을 바탕으로 상호작용과 액션의 한계를 확장하는 코어 TA 황효준입니다."
 
-UE Engine, C++, Houdini, Python기반의 기술 스택을 바탕으로 아티스트와 프로그래머 사이의 기술적 문제를 해결합니다.
+Unreal Engine C++, Animation System, Houdini, AI 파이프라인 기술을 융합하여 아티스트의 표현력을 극대화하고 게임플레이의 손맛을 완성합니다.
 
-Tool Development, Realtime Rendering, AI-Assisted Content Creation, Procedural Content Generation(PCG)를 통해 게임 제작 효율을 향상시키고 더 높은 양질의 컨텐츠를 빠르게 제작할 수있는 Pipeline 구축을 목표로 합니다.
+단순 리소스 제작을 넘어 Gameplay Ability System(GAS) 기반의 전투 프레임워크 구축, Context-Aware Animation 및 Motion Warping 커스텀 확장, AI-Assisted 에디터 플러그인 개발을 통해 AAA급 프로젝트에 최적화된 테크니컬 파이프라인 구축을 목표로 합니다.
 
 ## 🛠 Tech Stack
 ### Core
@@ -15,15 +15,15 @@ Tool Development, Realtime Rendering, AI-Assisted Content Creation, Procedural C
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Technical Art
-- Houdini Digital Asset (HDA)
-- Houdini VEX
-- UE PCG Framework
+- Houdini VEX & Digital Asset (HDA)
+- UE Animation Tech: Context-Aware Animation, Motion Warping
+- UE Gameplay System
 - UE Niagara / CasCade, Material & Shader
 - Pipeline Automation
 
-### Graphics
+### Graphics & Optimization
 - Rendering Pipeline
-- GPU Profiling
+- CPU/GPU Profiling
 - Performance Optimization
 - Realtime Rendering
 
@@ -48,19 +48,18 @@ Tool Development, Realtime Rendering, AI-Assisted Content Creation, Procedural C
 | [자세 추정 점수화](https://youtu.be/2spXeHQ4doA) | 실시간 자세 추정/분석 프로토타입 | 25.07 ~ 25.10 |
 
 ## 🚀 Ongoing Research | 현재 R&D 진행중
-- **AI Art Pipeline For UE :** 생성형 AI 결과물을 Unreal Asset로 자동 변환하는 Pipeline 연구
+- **GAS & Context-Aware Animation Graph :**상황 인지 애니메이션 노드를 활용한 실시간 부위 파괴 및 정밀 액션 시스템 연구
 - **Material & Shader Optimization :** 실시간 렌더링 환경에서 GPU 비용 최적화 연구
-- **NC AI Varco3D ↔ Unreal Plugin Integration:** Varco3D art - UE Engine Module 통합 아키텍쳐 연구 (26 상반기~)
+- **NC AI Varco3D ↔ Unreal Plugin Integration :** Varco3D art - UE Engine Module 통합 아키텍쳐 연구 (26 상반기~)
 
 ## 💡Research & Interest | 연구 및 관심 분야
 ### 📝 Current Research Topic (현재 논문 주제)
-**"생성형 AI 기반 Unreal Engine 콘텐츠 제작 자동화 파이프라인 연구"**
+**"GAS 및 상황 인지 애니메이션 노드를 활용한 실시간 부위 파괴 기반의 정밀 액션 게임 아키텍처 연구"**
 
 ### 🔬 Research Interests
 *C++ 설계, Unreal Engine 구조, Art 제작 프로세스의 이해를 바탕으로, 게이머들이 느끼는 '감정'을 설계합니다.*
-- **Technical Art Pipeline :** Houdini, Unreal Engine, AI 기술을 활용한 콘텐츠 제작 자동화 및 pipeline 구축
-- **Tool & Plugin Development** : Unreal Engine Plugin, Editor Tool, Pipeline Utility 개발
-- **Procedural Content Generation (PCG)** : Houdini 및 Unreal PCG Framework 기반의 자동화된 월드 제작 연구
+- **Context-Aware Animation :** 지형/상황 인식 시스템과 동적 애니메이션 노드 그래프 기반의 상호작용 구현
+- **Tool & Plugin Development :** Unreal Engine Plugin, Editor Tool, Pipeline Utility 개발
 - **Performance Optimization :** CPU-GPU 병목 구간 제어 및 DOD(Data-Oriented Design) 기반 최적화 연구
 
 ## 🎓 Education & Awards
