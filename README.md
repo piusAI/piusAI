@@ -1,10 +1,10 @@
-# 💨 Technical Artist 황효준입니다.
+# 💨 아트에 기술을 불어넣는 Technical Artist 황효준입니다.
 
-"Art와 Programming의 사이에서 반복 작업을 자동화하고, 더 높은 퀄리티와 생산성을 연구하는 Technical Artist 황효준입니다."
+"Art와 Programming의 경계에서 기술로 창작의 가능성을 확장하는 TA 황효준입니다."
 
-UE Engine, C++, Houdini 기반의 Pipeline 구축 경험을 바탕으로 아티스트와 프로그래머 사이의 문제를 해결합니다.
+UE Engine, C++, Houdini, Python기반의 기술 스택을 바탕으로 아티스트와 프로그래머 사이의 기술적 문제를 해결합니다.
 
-Procedural Content Generation(PCG), Tool Development, Realtime Rendering, AI-Assisted Content Creation을 통해 게임 제작 효율을 향상시키고 아트 파이프라인의 병목을 제거하는 것을 목표로 합니다.
+Tool Development, Realtime Rendering, AI-Assisted Content Creation, Procedural Content Generation(PCG)를 통해 게임 제작 효율을 향상시키고 더 높은 양질의 컨텐츠를 빠르게 제작할 수있는 Pipeline 구축을 목표로 합니다.
 
 ## 🛠 Tech Stack
 ### Core
@@ -18,45 +18,43 @@ Procedural Content Generation(PCG), Tool Development, Realtime Rendering, AI-Ass
 - Houdini Digital Asset (HDA)
 - Houdini VEX
 - UE PCG Framework
-- UE ParticleSystem : Niagara / CasCade
-- UE Material & Shader
+- UE Niagara / CasCade, Material & Shader
 - Pipeline Automation
 
 ### Graphics
-- DirectX11
 - Rendering Pipeline
 - GPU Profiling
 - Performance Optimization
-
-
+- Realtime Rendering
 
 ## 📌 Featured WIP Projects | 한 걸음씩 앞으로! (진행중인 프로젝트)
 | 프로젝트 제목 | 핵심 기술 | 개발 기간 |
 | :--- | :--- | :--- |
-| UE5 Technical Art Game | Art - Engine pipeline Game | 26.06 ~ (진행중) |
-| NC AI Art Pipeline | Art - Engine Configuration | 26.07 ~ (예정) |
 | DirectX Engine Demo | Graphics Pipeline | 26.02 ~ ( 연구중) |
 | Virtual Idol Pipeline | 버츄얼 휴먼 사업화, 모션캡처 | 26.05 ~ (사업 진행중) |
+| UE5 Procedural Env FrameWork | HDA, PCG, Pipeline Automation | 26.06 ~ (진행중) |
+| NC AI Art Pipeline | Art - Engine Configuration | 26.07 ~ (예정) |
+
 
 ## 🚩 Done Project Portfolio
 | 프로젝트 제목 | 핵심 기술 | 개발 기간 |
 | :--- | :--- | :--- |
+| [VFX Portfolio](https://www.artstation.com/piusai) | 전투 집중한 UE4/UE5/Houdini VFX 작업물 | 24.04 ~ 25.03 |
 | [XR 전시 : KickClay XR](https://youtu.be/fMi-oCwVEYk) | Unreal C++, XR Spouter, Hokoyo | 25.06 ~ 25.10 |
 | [Steam : Beat & Beasties](https://store.steampowered.com/app/4267610/Beat__Beasties/) | 아트 총괄 및 플레이어블 개발 참여 | 25.09 ~ 26.03 |
 | [Steam : QPopGirl](https://store.steampowered.com/app/4157070/QPopGirl/) | 아트 및 폴리싱 참여 | 24.12 ~ 24.05 |
+| [Unity-HDA](https://youtu.be/5EGHmrIraA0) | 우주 배경 PCG형태 Unity HDA 프로토타입 | 25.06 |
 | [RAG + QDrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 축구인 재활 프로토타입 | 25.11 ~ 25.12 |
 | [자세 추정 점수화](https://youtu.be/2spXeHQ4doA) | 실시간 자세 추정/분석 프로토타입 | 25.07 ~ 25.10 |
-| [VFX Portfolio](https://www.artstation.com/piusai) | 전투 집중한 UE4/UE5/Houdini VFX 작업물 | 24.04 ~ 25.03 |
-| [Unity-HDA](https://youtu.be/5EGHmrIraA0) | 우주 배경 PCG형태 Unity HDA 프로토타입 | 25.06 |
 
 ## 🚀 Ongoing Research | 현재 R&D 진행중
-- **AI Art Pipeline For UE**: 실무형 Ability 아키텍처 고도화
-- **Material & Shader Optimization**
-- **NCAI 3D Generation FOR UE Integration**: Varco3D art - UE Engine Module 통합 아키텍쳐 연구 (26 상반기~)
+- **AI Art Pipeline For UE :** 생성형 AI 결과물을 Unreal Asset로 자동 변환하는 Pipeline 연구
+- **Material & Shader Optimization :** 실시간 렌더링 환경에서 GPU 비용 최적화 연구
+- **NC AI Varco3D ↔ Unreal Plugin Integration:** Varco3D art - UE Engine Module 통합 아키텍쳐 연구 (26 상반기~)
 
 ## 💡Research & Interest | 연구 및 관심 분야
 ### 📝 Current Research Topic (현재 논문 주제)
-**" AI art 자동화 파이프라인 구축 연구(NCAI 협업)"**
+**"생성형 AI 기반 Unreal Engine 콘텐츠 제작 자동화 파이프라인 연구"**
 
 ### 🔬 Research Interests
 *C++ 설계, Unreal Engine 구조, Art 제작 프로세스의 이해를 바탕으로, 게이머들이 느끼는 '감정'을 설계합니다.*
