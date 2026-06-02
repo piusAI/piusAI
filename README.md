@@ -42,8 +42,8 @@ Tool Development, Realtime Rendering, AI-Assisted Content Creation, Procedural C
 | [VFX Portfolio](https://www.artstation.com/piusai) | 전투 집중한 UE4/UE5/Houdini VFX 작업물 | 24.04 ~ 25.03 |
 | [XR 전시 : KickClay XR](https://youtu.be/fMi-oCwVEYk) | Unreal C++, XR Spouter, Hokoyo | 25.06 ~ 25.10 |
 | [Steam : Beat & Beasties](https://store.steampowered.com/app/4267610/Beat__Beasties/) | 아트 총괄 및 플레이어블 개발 참여 | 25.09 ~ 26.03 |
-| [Steam : QPopGirl](https://store.steampowered.com/app/4157070/QPopGirl/) | 아트 및 폴리싱 참여 | 24.12 ~ 24.05 |
 | [Unity-HDA](https://youtu.be/5EGHmrIraA0) | 우주 배경 PCG형태 Unity HDA 프로토타입 | 25.06 |
+| [Steam : QPopGirl](https://store.steampowered.com/app/4157070/QPopGirl/) | 아트 및 폴리싱 참여 | 24.12 ~ 24.05 |
 | [RAG + QDrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 축구인 재활 프로토타입 | 25.11 ~ 25.12 |
 | [자세 추정 점수화](https://youtu.be/2spXeHQ4doA) | 실시간 자세 추정/분석 프로토타입 | 25.07 ~ 25.10 |
 
