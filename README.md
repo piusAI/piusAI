@@ -10,7 +10,7 @@ Procedural Content Generation(PCG), Tool Development, Realtime Rendering, AI-Ass
 ### Core
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![DirectX11](https://img.shields.io/badge/DirectX-3D3D3D?style=flat&logo=microsoft&logoColor=white)
+![DirectX11](https://img.shields.io/badge/DirectX_11-107C10?style=flat&logo=xbox&logoColor=white)
 ![Houdini](https://img.shields.io/badge/Houdini-FF6B35?style=flat&logo=houdini&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
