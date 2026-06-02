@@ -1,4 +1,4 @@
-# 💨 아트에 기술을 불어넣는 Technical Artist 황효준입니다.
+# 💨 Technical Artist | Bridgin Art and Technology
 
 "Art와 Programming의 경계에서 기술로 창작의 가능성을 확장하는 TA 황효준입니다."
 
