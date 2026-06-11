@@ -1,10 +1,8 @@
 # 💨 Gameplay Technical Artist | Bridging Art and Technology
 
-"C++ 아키텍처와 그래픽스 기술을 바탕으로 상호작용과 액션의 한계를 확장하는 Technical Artist입니다."
+"C++ 엔진 아키텍처와 그래픽스 파이프라인에 대한 이해를 바탕으로, 상호작용과 그래픽 표현의 한계를 확장하는 개발자입니다."
 
-Unreal Engine C++, Animation System, Houdini, AI 기술을 융합하여 아티스트의 표현력을 극대화하고 게임플레이의 손맛을 완성합니다.
-
-Gameplay Ability System(GAS), Context-Aware Animation, Motion Warping, Tool Development를 중심으로 차세대 인터랙티브 콘텐츠 제작 파이프라인 구축을 목표로 합니다.
+Unreal Engine C++, Technical VFX, Pipeline 기술을 융합하여 아티스트의 표현력을 극대화하고 게임의 퍼포먼스를 확보하는 데 집중합니다.
 
 ## 🛠 Tech Stack
 ### Core
@@ -16,8 +14,6 @@ Gameplay Ability System(GAS), Context-Aware Animation, Motion Warping, Tool Deve
 
 ### Technical Art
 - Houdini VEX & Digital Asset (HDA)
-- UE Animation Tech: Context-Aware Animation, Motion Warping
-- UE Gameplay System
 - UE Niagara / CasCade, Material & Shader
 - Pipeline Automation
 
@@ -40,6 +36,7 @@ Gameplay Ability System(GAS), Context-Aware Animation, Motion Warping, Tool Deve
 ## 🚩 Done Project Portfolio
 | 프로젝트 제목 | 핵심 기술 | 개발 기간 |
 | :--- | :--- | :--- |
+| [DirectX11 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj) | Direct X11 기술 데모 | 2026.06 |
 | [VFX Portfolio](https://www.artstation.com/piusai) | 전투 집중한 UE4/UE5/Houdini VFX 작업물 | 24.04 ~ 25.03 |
 | [XR 전시 : KickClay XR](https://youtu.be/fMi-oCwVEYk) | Unreal C++, XR Spouter, Hokoyo | 25.06 ~ 25.10 |
 | [Steam : Beat & Beasties](https://store.steampowered.com/app/4267610/Beat__Beasties/) | 아트 총괄 및 플레이어블 개발 참여 | 25.09 ~ 26.03 |
@@ -48,20 +45,11 @@ Gameplay Ability System(GAS), Context-Aware Animation, Motion Warping, Tool Deve
 | [RAG + QDrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 축구인 재활 프로토타입 | 25.11 ~ 25.12 |
 | [자세 추정 점수화](https://youtu.be/2spXeHQ4doA) | 실시간 자세 추정/분석 프로토타입 | 25.07 ~ 25.10 |
 
-## 🚀 Ongoing Research | 현재 R&D 진행중
-- **GAS & Context-Aware Animation Graph :**상황 인지 애니메이션 노드를 활용한 실시간 부위 파괴 및 정밀 액션 시스템 연구
-- **Material & Shader Optimization :** 실시간 렌더링 환경에서 GPU 비용 최적화 연구
-- **NC AI Varco3D ↔ Unreal Plugin Integration :** Varco3D art - UE Engine Module 통합 아키텍쳐 연구 (26 상반기~)
-
-## 💡Research & Interest | 연구 및 관심 분야
-### 📝 Current Research Topic (현재 논문 주제)
-**"GAS 및 상황 인지 애니메이션 노드를 활용한 실시간 부위 파괴 기반의 정밀 액션 게임 아키텍처 연구"**
-
-### 🔬 Research Interests
-*C++ 설계, Unreal Engine 구조, Art 제작 프로세스의 이해를 바탕으로, 게이머들이 느끼는 '감정'을 설계합니다.*
-- **Context-Aware Animation :** 지형/상황 인식 시스템과 동적 애니메이션 노드 그래프 기반의 상호작용 구현
-- **Tool & Plugin Development :** Unreal Engine Plugin, Editor Tool, Pipeline Utility 개발
-- **Performance Optimization :** CPU-GPU 병목 구간 제어 및 DOD(Data-Oriented Design) 기반 최적화 연구
+## 🚀 Technical R&D (기술 연구 및 진행 중인 프로젝트)
+### K-Zombie FPS 게임 개발 (26.06 ~ 진행 중)
+- **내용:** Gameplay Ability System(GAS) 및 동적 애니메이션 시스템 기반의 FPS 전투 아키텍처 구축
+### DirectX 11 Engine Demo (26.02 ~ 진행 중)
+- **내용:** 그래픽스 렌더링 파이프라인 및 로우레벨 엔진 구조 연구
 
 ## 🎓 Education & Awards
 - 2025 한국 게임학회 추계 학술대회 논문 우수상(25.10) : [언리얼 엔진5 기반 하이브리드 프로젝션 XR 환경 성능 최적화](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)
