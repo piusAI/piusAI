@@ -1,6 +1,6 @@
 # 💨 Technical Artist | Bridging Art and Technology
 
-C++ 엔진 아키텍처와 그래픽스 파이프라인에 대한 이해를 바탕으로, 상호작용과 그래픽 표현의 한계를 확장하는 Render & VFX Technical Artist입니다  
+C++ 엔진 아키텍처와 그래픽스 파이프라인에 대한 이해를 바탕으로, 상호작용과 그래픽 표현의 한계를 확장하는 Render & VFX Technical Artist입니다.  
 Unreal Engine C++, Technical VFX, Pipeline 기술을 융합하여 아티스트와 개발자의 표현력을 극대화하고 게임의 퍼포먼스를 확보하는 데 집중합니다.
 
 ## 🛠 Tech Stack
