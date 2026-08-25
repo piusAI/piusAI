@@ -37,7 +37,8 @@ Unreal Engine C++, Technical VFX, Pipeline 기술을 융합하여 아티스트�
 | [📺 Houdini Procedural Modeling](https://www.youtube.com/playlist?list=PLcBkRBTJf8ZI9YiDyFrWVfVmLf8Bs3cWU) | Houdini VEX 기반 절차적 모델링 및 HDA 파이프라인 구축               | 23.10 ~ 24.04 |
 | [📺 RAG + QDrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo)                                      | RAG 기반 축구인 재활 프로토타입                                 | 25.11 ~ 25.12 |
 | [📺 실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA)                                                      | 실시간 자세 추정/분석 프로토타입                                  | 25.07 ~ 25.10 |
-| [⚙️ MotionSemantic & Traversal Pipeline](https://github.com/piusAI/MotionSemantic) | Motion Semantic Labeling pipeline from Animation(Fbx) : | 26.06 ~ (NC VarcoAi 과제 )|
+| [⚙️ MotionSemantic & Traversal Pipeline](https://github.com/piusAI/MotionSemantic) | Motion Semantic Labeling pipeline from Animation(Fbx) | 26.06 ~  
+(NC VarcoAi 과제 )|
 
 ## 🚀 Technical R&D (기술 연구 및 진행 중인 프로젝트)
   
