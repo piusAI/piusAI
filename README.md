@@ -37,7 +37,6 @@ Unreal Engine C++, Technical VFX, Pipeline 기술을 융합하여 아티스트�
 | [📺 Houdini Procedural Modeling](https://www.youtube.com/playlist?list=PLcBkRBTJf8ZI9YiDyFrWVfVmLf8Bs3cWU) | Houdini VEX 기반 절차적 모델링 및 HDA 파이프라인 구축               | 23.10 ~ 24.04 |
 | [📺 RAG + QDrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo)                                      | RAG 기반 축구인 재활 프로토타입                                 | 25.11 ~ 25.12 |
 | [📺 실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA)                                                      | 실시간 자세 추정/분석 프로토타입                                  | 25.07 ~ 25.10 |
-| [⚙️ MotionSemantic (NC VarcoAi 과제) ](https://github.com/piusAI/MotionSemantic) | Motion Semantic Labeling pipeline from Animation(Fbx) | 26.06 ~ |
 
 ## 🚀 Technical R&D (기술 연구 및 진행 중인 프로젝트)
   
@@ -45,6 +44,12 @@ Unreal Engine C++, Technical VFX, Pipeline 기술을 융합하여 아티스트�
 - UE5 C++ Render Dependency Graph(RDG) 패스 및 `.usf` Compute Shader 구축
 - GPU Bit-packing 기반 VRAM 대역폭 절감 및 0.15ms 이하 실시간 Dynamic Mesh Deformation 달성
 - Render Thread / RHI 병목 분석 및 RenderDoc, Unreal Insights 기반 프로파일링
+
+### ⚙️ [MotionSemantic (NC VarcoAI 과제)](https://github.com/piusAI/MotionSemantic)
+- FBX 애니메이션 데이터를 기반으로 한 **Motion Semantic Labeling Pipeline** 자동화 R&D
+- Animation Clip 의미 검색 및 Motion DataBase 구축
+- 3D Geometry 분석 기반 Traversal 포인트 수신 후 **Animation IK 전달 및 조작 파이프라인 연동**
+- Motion Warping 및 IK Sync Point C++ 인터페이스 데이터 수송 구조 설계
 
 ### 💻 DirectX 11 + HLSL
 - 그래픽스 파이프라인 매커니즘 이해를 위한 커스텀 C++ 렌더링 엔진 프레임워크 구축 (`ThorPrj`)
