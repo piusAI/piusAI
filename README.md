@@ -39,7 +39,7 @@ Unreal Engine C++, Technical VFX, Pipeline 기술을 융합하여 아티스트�
 
 ## 🚀 Technical R&D (기술 연구 및 진행 중인 프로젝트)
   
-### 🏔️ C++ RDG & Compute Shader 기반 지형 변형 (진행 중 / CAVW SCIE 투고예정)
+### 🏔️ C++ RDG & Compute Shader 기반 Tessellation Optimize 진행 중 (IEEE TOG 투고예정)
 - UE5 C++ Render Dependency Graph(RDG) 패스 및 `.usf` Compute Shader 구축
 - GPU Bit-packing 기반 VRAM 대역폭 절감 및 0.15ms 이하 실시간 Dynamic Mesh Deformation 달성
 - Render Thread / RHI 병목 분석 및 RenderDoc, Unreal Insights 기반 프로파일링
