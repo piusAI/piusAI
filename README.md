@@ -44,7 +44,7 @@ Unreal Engine C++, Technical VFX, Pipeline 기술을 융합하여 아티스트�
 - GPU 기반 VRAM 대역폭 절감 및 실시간 Dynamic Mesh Deformation Optimize
 - Render Thread / RHI 병목 분석 및 RenderDoc, Unreal Insights 기반 프로파일링
 
-### ⚙️ [MotionSemantic (NC VarcoAI 과제)](https://github.com/piusAI/MotionSemantic)
+### ⚙️ [MotionSemantic (NC VarcoAI 과제)](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)
 - FBX 애니메이션 데이터를 기반으로 한 **Motion Semantic Labeling Pipeline** 자동화 R&D
 - Animation Clip 의미 검색 및 Motion DataBase 구축
 - 3D Geometry 분석 기반 Traversal 포인트 수신 후 **Animation IK 전달 및 조작 파이프라인 연동**
