@@ -1,7 +1,8 @@
 # 🎮 Unreal C++ Gameplay Programmer | Interaction & Physics-Based Gameplay
 
 Unreal Engine 5와 C++를 중심으로 **게임플레이 시스템, 월드 상호작용, 물리 기반 파괴**를 구현하는 클라이언트 프로그래머입니다.  
-DirectX 11·Unreal 렌더링 연구 경험을 바탕으로 엔진 구조와 성능을 이해하고, Houdini·VFX 제작 경험을 활용해 **게임 로직과 시각적 반응을 연결하는 인터랙션**에 관심을 두고 있습니다.
+DirectX 11·Unreal 렌더링 연구 경험을 바탕으로 엔진 구조와 성능을 이해하고,  
+Houdini·VFX 제작 경험을 활용해 **게임 로직과 시각적 반응을 연결하는 인터랙션**에 관심을 두고 있습니다.
 > **Target Position** — Unreal C++ Gameplay / Client Programmer  
 > **Specialization** — Gameplay Interaction · Physics-Based Gameplay · Destruction · Optimization  
 
