@@ -14,7 +14,7 @@ DirectX 11·Unreal 렌더링 연구 경험을 바탕으로 엔진 구조와 성�
 - **학습·구현 중:** Delegate / Event-Driven Design, DataAsset, 객체 수명·GC, STL·자료구조·알고리즘, 디버깅
 - **Graphics / Performance:** DirectX 11, HLSL, Unreal RDG 구조 분석, CPU/GPU Profiling
 - **Supporting Skills:** Houdini, Niagara, Chaos, Python — 파괴 에셋·이펙트·제작 파이프라인 경험
-- 🔗 [Technical Blog](https://piusai.github.io/) : UE C++, DirectX, 그래픽스, Houdini art, 게임 개발 과정에서 공부한 기술과 직접 구현한 기능을 정리  
+- 🔗 [Technical Blog](https://piusai.github.io/) : Unreal C++, DirectX, Graphics, Houdini 및 게임 개발 과정에서 학습한 기술과 직접 구현한 기능 기록
 
 ## 🚩 Main Game & Programming Portfolio
 
