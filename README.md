@@ -5,11 +5,6 @@ DirectX 11·Unreal 렌더링 연구 경험을 바탕으로 엔진 구조와 성�
 > **Target Position** — Unreal C++ Gameplay / Client Programmer  
 > **Specialization** — Gameplay Interaction · Physics-Based Gameplay · Destruction · Optimization  
 
-## 📚 Development Blog
-
-Unreal Engine C++, DirectX, 그래픽스 및 게임 개발 과정에서 공부한 기술과 직접 구현한 기능을 정리  
-자료구조·알고리즘, 엔진 아키텍처, C++ 시스템 설계, 렌더링 구현 및 디버깅 과정을 기록, 단순한 구현 결과뿐 아니라 원리와 문제 해결 과정을 이해하는 것에 초점
-
 ## 🛠 Tech Stack
 
 **Programming & Engine**  
