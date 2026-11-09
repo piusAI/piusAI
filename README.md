@@ -68,7 +68,7 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 ![Q-Pop Girl](Thumnail/Qpopgirl.png)
 
 - **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
-- 게임 콘텐츠를 실제로 완성하고 배포한 경험
+- 게임 콘텐츠를 실제로 완성하고 배포 경험
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
