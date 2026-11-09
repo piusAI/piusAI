@@ -88,13 +88,9 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 - C++ 인터페이스와 애니메이션 데이터 전달 구조 설계·분석
 
-### Performance Optimization / Tooling
 
-- Unreal Insights, CPU/GPU 프로파일링을 활용한 게임 및 렌더링 성능 분석 경험
-- Unreal C++ 플러그인 및 Editor Tooling, Asset Validation·Pipeline Automation 관련 R&D
-- Houdini HDA 및 에셋 제작 과정 이해를 활용한 개발·아트 협업 도구 연구
 
-### 보류: AIZ Tessellation Optimization
+### [AIZ Tessellation Optimization](https://youtu.be/5quB66ROCn0)(진행중)
 
 - 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 계획
 - **2027년 신입 클라이언트 취업 준비를 위해 우선순위 보류**
@@ -109,7 +105,6 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 | [실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA) | 실시간 분석·점수 시각화 프로토타입 |
 | [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 경험 |
 
-기존 CG·3D 강의 경험(약 2년)은 **기술 설명, 협업 커뮤니케이션, 3D 콘텐츠 제작 파이프라인 이해**를 보여주는 보조 경력으로 소개합니다.
 
 ## 🎓 Education & Awards
 
