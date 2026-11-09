@@ -30,10 +30,8 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - **성능 검증:** Game Thread, Actor 생성·제거 및 파괴 시스템의 성능 측정과 개선
 - **포트폴리오 산출 목표:** 플레이 가능 빌드, 핵심 코드·클래스 구조, 디버깅 사례, 성능 Before / After
 
-> AI를 개발 보조 도구로 사용하되, **직접 설계·수정·디버깅하고 설명할 수 있는 C++ 구현 범위**를 포트폴리오에 구분해 기록할 예정입니다.
-
 ### 02. XR KickClay — Unreal Engine Interactive XR
-[▶ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
+[▶ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
 **2025.06 ~ 2025.10** · `Unreal Engine 5` `XR` `Realtime Input` `Optimization`
 
 ![KickClay XR](Thumnail/KickClayXR2.png)
