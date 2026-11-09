@@ -5,6 +5,10 @@ DirectX 11·Unreal 렌더링 연구 경험을 바탕으로 엔진 구조와 성�
 > **Target Position** — Unreal C++ Gameplay / Client Programmer  
 > **Specialization** — Gameplay Interaction · Physics-Based Gameplay · Destruction · Optimization  
 
+## 📚 Development Blog
+🔗 [Technical Blog](https://piusai.github.io/)
+Unreal Engine C++, DirectX, 그래픽스 및 게임 개발 과정에서 공부한 기술과 직접 구현한 기능을 정리  
+자료구조·알고리즘, 엔진 아키텍처, C++ 시스템 설계, 렌더링 구현 및 디버깅 과정을 기록, 단순한 구현 결과뿐 아니라 원리와 문제 해결 과정을 이해하는 것에 초점
 
 ## 🛠 Tech Stack
 
@@ -90,8 +94,8 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 
 ### [AIZ Tessellation Optimization](https://youtu.be/5quB66ROCn0)(진행중)
 
-- 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 계획
-- **2027년 신입 클라이언트 취업 준비를 위해 우선순위 보류**
+- 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 진행
+- 현재 GT->RT로 보내는 과정에서 프레임 드랍이 너무 심해서 아이디어 오류인 것 같아 잠시 보류
 
 ## 📂 Additional Projects & Art Background
 
