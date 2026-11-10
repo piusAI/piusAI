@@ -73,7 +73,7 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
-### Screen-Space Refraction — Unreal C++ / RDG / HLSL
+### [Screen-Space Refraction](https://www.youtube.com/shorts/oU3UkWu6Gt0) — Unreal C++ / RDG / HLSL
 **2026년 11월 연구 마무리 단계**
 
 - 깊이 불연속을 고려한 Newton 기반 Screen-Space Refraction 보정 연구
