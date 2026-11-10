@@ -1,21 +1,23 @@
-# 🎮 Unreal C++ Gameplay Programmer | Interaction & Physics-Based Gameplay
 
-Unreal Engine 5와 C++를 중심으로 **게임플레이 시스템, 월드 상호작용, 물리 기반 파괴**를 구현하는 클라이언트 프로그래머입니다.  
-DirectX 11 · Unreal 렌더링 연구 경험을 바탕으로 엔진 구조와 성능을 이해하고,  
-Houdini · VFX 제작 경험을 활용해 **게임 로직과 시각적 반응을 연결하는 인터랙션**에 관심을 두고 있습니다.
-> **Target Position** — Unreal C++ Gameplay / Client Programmer  
-> **Specialization** — Gameplay Interaction · Physics-Based Gameplay · Destruction · Optimization  
+# 🎨 Rendering Technical Artist | Unreal Engine · Shader · VFX
+
+Unreal Engine 5를 기반으로 **실시간 렌더링, 셰이더, 테크니컬 VFX 및 최적화**를 다루는 Technical Artist를 지향합니다.
+Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ / RDG 기반 렌더링 연구를 연결하여, **아트와 엔진 기술을 융합하고 실시간 그래픽 표현과 성능을 개선하는 것**에 관심을 두고 있습니다.
+
+> **Target Position** — Rendering / VFX Technical Artist  
+> **Specialization** — Unreal Rendering · Shader / HLSL · RDG · VFX · Optimization
 
 ## 🛠 Tech Stack
 
-**Programming & Engine**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unrealengine&logoColor=white) ![DirectX 11](https://img.shields.io/badge/DirectX_11-107C10?style=flat&logo=xbox&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+**Rendering & Engine**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unrealengine&logoColor=white) ![DirectX 11](https://img.shields.io/badge/DirectX_11-107C10?style=flat&logo=xbox&logoColor=white) ![Houdini](https://img.shields.io/badge/Houdini-FF6B35?style=flat&logo=houdini&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **Gameplay / Client:** Gameplay Framework, Actor·Component, Input, Collision, Interactive Objects
-- **학습·구현 중:** Delegate / Event-Driven Design, DataAsset, 객체 수명·GC, STL·자료구조·알고리즘, 디버깅
-- **Graphics / Performance:** DirectX 11, HLSL, Unreal RDG 구조 분석, CPU/GPU Profiling
-- **Supporting Skills:** Houdini, Niagara, Chaos, Python — 파괴 에셋·이펙트·제작 파이프라인 경험
-- 🔗 [Technical Blog](https://piusai.github.io/) : Unreal C++, DirectX, Graphics, Houdini 및 게임 개발 과정에서 학습한 기술과 직접 구현한 기능 기록
+- **Rendering / Shader:** DirectX 11, HLSL (`.usf`), Unreal RDG, Rendering Pipeline, Screen-Space Refraction
+- **Technical Art / VFX:** Houdini VEX / HDA, Niagara, Unreal Material, VAT, Chaos Destruction
+- **Engine / Optimization:** Unreal C++ Plugin, SceneViewExtension, CPU/GPU Profiling, Performance Optimization
+- **Programming (학습·구현 중):** C++, STL, 자료구조·알고리즘, 메모리 관리, 엔진 아키텍처, 디버깅
+- 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Graphics, Houdini 및 게임 개발 과정에서 학습한 기술과 구현·분석 내용을 기록
+
 
 ## 🚩 Main Game & Programming Portfolio
 
