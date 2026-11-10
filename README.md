@@ -75,7 +75,7 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 
 ### 06. Real-Time VFX Portfolio — Unreal Engine & Houdini
 [🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
-**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `VFX` `VAT`
+**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
 
 ![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
 
