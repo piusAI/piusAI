@@ -73,6 +73,17 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
 - 게임 콘텐츠를 실제로 완성하고 배포 경험
 
+### 06. Real-Time VFX Portfolio — Unreal Engine & Houdini
+[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
+**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `VFX` `VAT`
+
+![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
+
+- Unreal Engine 기반 **실시간 게임 VFX 포트폴리오 제작**
+- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
+- Houdini 기반 **VAT(Vertex Animation Texture), 절차적 Mesh 및 파괴 이펙트** 제작
+- 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
+
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
 ### [Screen-Space Refraction](https://www.youtube.com/shorts/oU3UkWu6Gt0) — Unreal C++ / RDG / HLSL
