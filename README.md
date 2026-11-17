@@ -1,7 +1,7 @@
 
 # 🎨 Rendering Technical Artist | Unreal Engine · Shader · VFX
 
-Unreal Engine 5를 기반으로 **실시간 렌더링, 셰이더, 테크니컬 VFX 및 최적화**를 다루는 Technical Artist를 지향합니다.
+Unreal Engine 5를 기반으로 **실시간 렌더링, 셰이더, 테크니컬 VFX 및 최적화**를 다루는 Technical Artist를 지향합니다.  
 Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ / RDG 기반 렌더링 연구를 연결하여, **아트와 엔진 기술을 융합하고 실시간 그래픽 표현과 성능을 개선하는 것**에 관심을 두고 있습니다.
 
 > **Target Position** — Rendering / VFX Technical Artist  
