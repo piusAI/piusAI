@@ -90,7 +90,7 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 
 ![virtual Project](Thumnail/KoreanVirtualHuman.png)
 
-**국악 버추얼 휴먼 지원사업의 캐릭터 제작 총괄 및 Unreal Engine 기반 3D 캐릭터·소품 제작·납품 프로젝트**
+**국악 버추얼 휴먼 프로젝트 - 캐릭터 제작 총괄 및 Unreal Engine 기반 3D 캐릭터·소품 제작 납품**
 
 - **Art Direction & Production:** 얼굴 스컬핑·의상 모델러 2명과 협업, 제작 방향 설정 및 에셋 검수·수정 총괄
 - **Maya / Houdini Asset Pipeline:** Varco AI 기반 Base Mesh 및 외부 제작 에셋 통합, Mesh 구조 정리 및 최종 에셋 구성
