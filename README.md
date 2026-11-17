@@ -86,7 +86,7 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 
 ### 07. Korean Traditional Music Virtual Human — Commercial Project
 
-**상태: 1차 제작 및 납품 완료** · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
+2026.05 ~ 2026.11 · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
 
 [🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://www.youtube.com/watch?v=fMi-oCwVEYk)
 
@@ -100,7 +100,7 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - **Unreal Engine Integration:** 캐릭터·의상·소품 에셋 통합, Material Instance 분리 및 파라미터 관리, 최종 Scene 구성
 - **Commercial Delivery:** T-Pose 캐릭터 시제품 1차 납품 완료 및 **제작 용역 매출 1,000만 원 달성**
 
-※ 헤드 스컬핑 및 의상 모델링은 외부 아티스트와 협업했으며, 리깅·애니메이션은 1차 납품 범위에서 제외했습니다.
+※ 헤드 스컬핑 및 의상 모델링은 외부 아티스트와 협업했으며, 리깅·애니메이션은 납품 범위에서 제외했습니다.
 
 
 
