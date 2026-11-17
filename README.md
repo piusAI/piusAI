@@ -85,10 +85,8 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
 
 ### 07. Korean Traditional Music Virtual Human — Commercial Project
-
-2026.05 ~ 2026.11 · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
-
 [🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://www.youtube.com/watch?v=fMi-oCwVEYk)
+2026.05 ~ 2026.11 · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
 
 ![virtual Project](Thumnail/KoreanVirtualHuman.png)
 
