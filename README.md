@@ -16,7 +16,7 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 - **Technical Art / VFX:** Houdini (VEX / HDA), Niagara, Cascade, VAT, SDF, Procedural Asset Pipeline
 - **Engine / Graphics:** Unreal Engine 5, DirectX 11, Unreal C++ Plugin, SceneViewExtension, Rendering Pipeline
 - **Programming / Optimization:** C++, Python, STL, CPU/GPU Profiling, Shader Optimization, Performance Analysis
-- 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Game Engine Architecture,HLSL, Houdini 기술 구현 및 분석 기록
+- 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Game Engine Architecture,HLSL, Houdini 기술 학습·구현 및 분석 기록
 
 
 ## 🚩 Main Game & Programming Portfolio
