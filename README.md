@@ -90,6 +90,8 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 
 [🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://www.youtube.com/watch?v=fMi-oCwVEYk)
 
+![virtual Project](Thumnail/KoreanVirtualHuman.png)
+
 **국악 버추얼 휴먼 지원사업의 외부 제작을 총괄, Houdini 기반 에셋 자동화 Unreal Engine 통합 파이프라인을 활용하여 캐릭터 시제품을 제작·납품한 상용 프로젝트**
 
 - **Art Direction & Production:** 얼굴 스컬핑·의상 모델러 2명과 협업하며 제작 방향 설정, 에셋 검수 및 수정 작업 총괄
