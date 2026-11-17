@@ -86,18 +86,20 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 
 ### 07. Korean Traditional Music Virtual Human — Commercial Project
 
-**상태: 1차 제작 및 납품 완료** · `Unreal Engine 5` `Maya` `AI Base Mesh` `Material Instance` `Asset Integration` `Art Direction`
+**상태: 1차 제작 및 납품 완료** · `Unreal Engine 5` `Maya` `Houdini` `AI Base Mesh` `Procedural Workflow` `Material Instance` `Technical Art`
 
-![Korean Traditional Music Virtual Human](Thumnail/KoreanVirtualHuman.png)
 
-**국악 버추얼 휴먼 지원사업의 외부 제작을 총괄, Unreal Engine 기반 캐릭터 시제품을 제작·납품한 상용 프로젝트**
 
-- **Art Direction & Production:** 헤드 스컬핑·의상 모델러 2명 섭외 및 협업, 제작 방향 설정, 에셋 검수, 수정 작업 총괄
-- **Character Asset Integration:** AI 기반 Base Mesh를 활용하고, Maya houdini 에서 캐릭터 Mesh 에셋 구조 관리 젖ㅇ리
-- **Unreal Engine Integration:** Material Instance 분리·설정, Prop 크기 및 houdini Scale 자동 조정 툴 활용, 캐릭터·의상 에셋 통합
+**국악 버추얼 휴먼 지원사업의 외부 제작을 총괄, Houdini 기반 에셋 자동화 Unreal Engine 통합 파이프라인을 활용하여 캐릭터 시제품을 제작·납품한 상용 프로젝트**
+
+- **Art Direction & Production:** 얼굴 스컬핑·의상 모델러 2명과 협업하며 제작 방향 설정, 에셋 검수 및 수정 작업 총괄
+- **Maya / Houdini Asset Pipeline:** AI Base Mesh 및 외부 제작 에셋을 Maya에서 통합·정리하고, Houdini를 활용해 Mesh 구조 관리 및 에셋 처리 작업 수행
+- **Procedural Asset Automation:** Houdini 기반 Prop Scale 자동 조정 툴을 활용하여 소품 크기와 비율을 일괄 정리하고 반복적인 수작업 최소화
+- **Unreal Engine Integration:** 캐릭터·의상·소품 에셋 통합, Material Instance 분리 및 파라미터 관리, 최종 Scene 구성
 - **Commercial Delivery:** T-Pose 캐릭터 시제품 1차 납품 완료 및 **제작 용역 매출 1,000만 원 달성**
 
-※ 캐릭터 모델링 일부는 외부 아티스트와 협업했으며, 리깅·애니메이션은 1차 납품 범위에 포함되지 않았습니다.
+※ 헤드 스컬핑 및 의상 모델링은 외부 아티스트와 협업했으며, 리깅·애니메이션은 1차 납품 범위에서 제외했습니다.
+
 
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
