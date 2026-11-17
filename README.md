@@ -84,6 +84,22 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - Houdini 기반 **VAT(Vertex Animation Texture), 절차적 Mesh 및 파괴 이펙트** 제작
 - 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
 
+### 07. Korean Traditional Music Virtual Human — Commercial Project
+
+**상태: 1차 제작 및 납품 완료** · `Unreal Engine 5` `Maya` `AI Base Mesh` `Material Instance` `Asset Integration` `Art Direction`
+
+![Korean Traditional Music Virtual Human](Thumnail/KoreanVirtualHuman.png)
+
+**국악 버추얼 휴먼 지원사업의 외부 제작을 총괄하고, Unreal Engine 기반 캐릭터 시제품을 제작·납품한 상용 프로젝트입니다.**
+
+- **Art Direction & Production:** 헤드 스컬핑·의상 모델러 2명 섭외 및 협업, 제작 방향 설정, 에셋 검수와 수정 작업 총괄
+- **Character Asset Integration:** AI 기반 Base Mesh를 활용하고, Maya에서 캐릭터 Mesh Combine 및 에셋 구조 정리
+- **Unreal Engine Integration:** Material Instance 분리·설정, Prop 크기 및 Scale 조정, 캐릭터·의상 에셋 통합
+- **Commercial Delivery:** T-Pose 캐릭터 시제품 1차 납품 완료 및 **제작 용역 매출 약 1,000만 원 달성**
+
+※ 캐릭터 모델링 일부는 외부 아티스트와 협업했으며, 리깅·애니메이션은 1차 납품 범위에 포함되지 않았습니다.
+
+
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
 ### [Screen-Space Refraction](https://www.youtube.com/shorts/oU3UkWu6Gt0) — Unreal C++ / RDG / HLSL
