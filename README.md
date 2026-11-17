@@ -12,11 +12,11 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 **Rendering & Engine**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unrealengine&logoColor=white) ![DirectX 11](https://img.shields.io/badge/DirectX_11-107C10?style=flat&logo=xbox&logoColor=white) ![Houdini](https://img.shields.io/badge/Houdini-FF6B35?style=flat&logo=houdini&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **Rendering / Shader:** DirectX 11, HLSL (`.usf`), Unreal RDG, Rendering Pipeline, Screen-Space Refraction
-- **Technical Art / VFX:** Houdini VEX / HDA, Niagara, Unreal Material, VAT, Chaos Destruction
-- **Engine / Optimization:** Unreal C++ Plugin, SceneViewExtension, CPU/GPU Profiling, Performance Optimization
-- **Programming (학습·구현 중):** C++, STL, 자료구조·알고리즘, 메모리 관리, 엔진 아키텍처, 디버깅
-- 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Graphics, Houdini 및 게임 개발 과정에서 학습한 기술과 구현·분석 내용을 기록
+- **Rendering / Shader:** HLSL (`.usf` / `.ush`), Unreal Material, Global Shader, RDG, Screen-Space Refraction
+- **Technical Art / VFX:** Houdini (VEX / HDA), Niagara, Cascade, VAT, SDF, Procedural Asset Pipeline
+- **Engine / Graphics:** Unreal Engine 5, DirectX 11, Unreal C++ Plugin, SceneViewExtension, Rendering Pipeline
+- **Programming / Optimization:** C++, Python, STL, CPU/GPU Profiling, Shader Optimization, Performance Analysis
+- 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Game Engine Architecture,HLSL, Houdini 기술 구현 및 분석 기록
 
 
 ## 🚩 Main Game & Programming Portfolio
