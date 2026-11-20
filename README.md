@@ -29,9 +29,9 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 
 `Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
 
-**전쟁 이후 남겨진 상실감을 추억으로 채워주는 쿼터뷰 액션 게임**
+**전쟁 이후 남겨진 상실의 기억을 마주하고, 잃어버린 색을 되찾는 추억으로 채워주는 쿼터뷰 액션 게임**
 
-칼 공격과 패링으로 악령을 정화하고, 흑백으로 잠식된 공간에 색을 되돌려 이동 경로를 확보하는 전투 시스템을 개발중
+칼 공격과 패링으로 악령을 정화하고, 흑백으로 잠식된 공간에 색을 되돌려 기억을 되찾는 게임 개발 진행중
 
 - Gameplay: 칼 공격, 패링, 경직 및 마무리 공격 중심의 전투 시스템 설계
 - Rendering / Shader: Material / HLSL 기반 흑백 잠식 및 Hue 색채 복원 효과
