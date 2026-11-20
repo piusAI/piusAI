@@ -1,6 +1,6 @@
 # 🎇 VFX / Rendering Technical Artist
 
-▸ Unreal Engine 기반의 실시간 VFX, Shader, 물리 기반 파괴 연출 및 최적화를 중심으로  
+▸ 실시간 VFX, Shader, 물리 기반 파괴 연출 및 최적화를 중심으로  
 아트와 엔진 기술을 연결하는 **Technical Artist 황효준**입니다.  
 
 ▸ Houdini 기반의 절차적 제작과 Niagara/CasCade를 활용한 실시간 VFX 경험을 바탕으로  
