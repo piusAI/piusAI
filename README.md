@@ -52,9 +52,9 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ![DirectX 11 Demo](Thumnail/DirectX.gif)
 
-- C++ 기반 DirectX 11 렌더링 프레임워크 구현 및 그래픽스 파이프라인 학습
-- Vertex / Pixel Shader, GPU 리소스 바인딩 및 렌더링 흐름 이해
-- 클라이언트 개발 시 엔진 하위 렌더링 구조를 이해하기 위한 기술 기반
+- C++ 기반 DirectX 11 Rendering FrameWork 구현 및 그래픽스 파이프라인 학습
+- Vertex / Pixel Shader, GPU Resource Binding / Rendering 흐름 이해
+- 상용 엔진의 하위 렌더링 구조를 이해하기 위한 기술 기반
 
 ### 03. Beat & Beasties — Steam Demo
 [🎮 Steam 데모](https://store.steampowered.com/app/4267610/Beat__Beasties/)  
