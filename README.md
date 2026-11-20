@@ -29,7 +29,7 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 
 `Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
 
-**전쟁 이후 남겨진 사람들의 기억과 슬픔을 소재로 한 쿼터뷰 액션 게임.**
+**전쟁 이후 남겨진 상실감과 기억을 푸는 쿼터뷰 액션 게.**
 
 칼 공격과 패링으로 악령을 정화하고, 흑백으로 잠식된 공간에 색을 되돌려 이동 경로를 확보하는 전투 시스템을 개발중
 
