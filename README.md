@@ -20,6 +20,26 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 
 
 ## 🚩 Main Game & Programming Portfolio
+### 01. Project Re;Hue — Unreal Engine Action & Technical Art
+
+[▶ 초기 개발 영상](https://www.youtube.com/watch?v=h6AI1c0-_iQ)
+
+**2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 목표 (1인 개발)**
+
+`Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
+
+**전쟁 이후 남겨진 사람들의 기억과 슬픔을 소재로 한 쿼터뷰 액션 게임.**
+
+칼 공격과 패링으로 악령을 정화하고, 흑백으로 잠식된 공간에 색을 되돌려 이동 경로를 확보하는 전투 시스템을 개발하고 있습니다.
+
+- **Combat / Gameplay:** 칼 공격, 패링, 경직 및 마무리 공격을 활용한 근접 전투 시스템
+- **Rendering / Shader:** 흑백 잠식 및 Hue 색채 복원을 위한 Material / Shader 기반 환경 변화 구현
+- **Technical VFX:** Niagara 기반 검 공명, 타격 피드백, 악령 분해 및 색채 확산 연출
+- **Destruction Pipeline:** VARCO 3D 파츠 구조를 활용한 물리 상호작용 검토 및 Houdini Fracture / Chaos 기반 파괴 연출
+- **Optimization:** Unreal Insights 및 CPU/GPU Profiling을 활용한 전투·VFX 성능 분석 및 최적화
+
+※ 전투·셰이더·물리 파괴 시스템은 개발 예정 항목이며, 구현 범위는 프로토타입 검증 결과에 따라 조정될 수 있습니다.
+
 
 ### 01. Project Rehue — Unreal C++ Gameplay & Destruction
 **상태: 기획·개발 예정 / 목표: 2027년 3월 Steam 출시**  
