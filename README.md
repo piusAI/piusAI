@@ -24,7 +24,7 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 ### 01. Project Re;Hue — Unreal Engine Action & Technical Art
 [▶ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
 
-![ProjectRehue](Thumnail/ProjectRehue2.png)
+![ProjectRehue](Thumnail/ProjectRehue.png)
 **2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 (1인 개발)**
 
 `Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
