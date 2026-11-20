@@ -25,7 +25,7 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 [▶ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
 
 ![ProjectRehue](Thumnail/ProjectRH.png)
-**2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 (1인 개발)**
+**2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 계획**
 
 `Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
 
@@ -127,7 +127,7 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 
 
 
-### [AIZ Tessellation Optimization](https://youtu.be/5quB66ROCn0)(진행중)
+### [AIZ Tessellation Optimization](https://youtu.be/5quB66ROCn0)(보류중)
 
 - 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 진행
 - 현재 GT->RT로 보내는 과정에서 프레임 드랍이 너무 심해서 아이디어 오류인 것 같아 잠시 보류
