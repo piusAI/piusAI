@@ -20,13 +20,12 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 
 
 ## 🚩 Main Game & Programming Portfolio
+
 ### 01. Project Re;Hue — Unreal Engine Action & Technical Art
-
-[▶ 초기 개발 영상](https://www.youtube.com/watch?v=h6AI1c0-_iQ)
-
+[▶ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
 
 ![ProjectRehue](Thumnail/ProjectRH.jpg)
-**2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 목표 (1인 개발)**
+**2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 (1인 개발)**
 
 `Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
 
@@ -39,21 +38,8 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 - **Technical VFX:** Niagara 기반 검 공명, 타격 피드백, 악령 분해 및 색채 확산 연출
 - **Destruction Pipeline:** VARCO 3D 파츠 구조를 활용한 물리 상호작용 검토 및 Houdini Fracture / Chaos 기반 파괴 연출
 - **Optimization:** Unreal Insights 및 CPU/GPU Profiling을 활용한 전투·VFX 성능 분석 및 최적화
-
+- **Animation** : [Varco 3D Animation to Maya to UE](https://youtu.be/6giy8WyuEvI) 아트 검수 및 엔진 연동
 ※ 전투·셰이더·물리 파괴 시스템은 개발 예정 항목이며, 구현 범위는 프로토타입 검증 결과에 따라 조정될 수 있습니다.
-
-
-### 01. Project Rehue — Unreal C++ Gameplay & Destruction
-**상태: 기획·개발 예정 / 목표: 2027년 3월 Steam 출시**  
-`Unreal Engine 5` `C++` `Gameplay Interaction` `Chaos` `Houdini` `Niagara`
-
-Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기반 파괴 게임 프로젝트입니다.
-
-- **핵심 개발 목표:** 플레이어 입력 → 상호작용·충돌 판정 → 피해·파괴 처리 → 점수·UI 갱신으로 이어지는 C++ 게임플레이 흐름 구현
-- **시스템 설계 목표:** ActorComponent, Interface, Delegate, DataAsset를 활용한 재사용 가능한 상호작용·오브젝트 데이터 구조
-- **물리 상호작용:** Grab / Throw / Impulse, Chaos Geometry Collection 및 Rigid Body 연동
-- **성능 검증:** Game Thread, Actor 생성·제거 및 파괴 시스템의 성능 측정과 개선
-- **포트폴리오 산출 목표:** 플레이 가능 빌드, 핵심 코드·클래스 구조, 디버깅 사례, 성능 Before / After
 
 ### 02. DirectX 11 — ThorPrj
 [💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
