@@ -24,6 +24,8 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 
 [▶ 초기 개발 영상](https://www.youtube.com/watch?v=h6AI1c0-_iQ)
 
+
+![ProjectRehue](Thumnail/ProjectRH.png)
 **2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 목표 (1인 개발)**
 
 `Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
