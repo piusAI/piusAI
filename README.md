@@ -13,13 +13,14 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🛠 Tech Stack
 
-**Rendering & Engine**  
+**Technical Art & Engine**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unrealengine&logoColor=white) ![DirectX 11](https://img.shields.io/badge/DirectX_11-107C10?style=flat&logo=xbox&logoColor=white) ![Houdini](https://img.shields.io/badge/Houdini-FF6B35?style=flat&logo=houdini&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **Rendering / Shader:** HLSL (`.usf` / `.ush`), Unreal Material, Global Shader, RDG, Screen-Space Refraction
-- **Technical Art / VFX:** Houdini (VEX / HDA), Niagara, Cascade, VAT, SDF, Procedural Asset Pipeline
-- **Engine / Graphics:** Unreal Engine 5, DirectX 11, Unreal C++ Plugin, SceneViewExtension, Rendering Pipeline
-- **Programming / Optimization:** C++, Python, STL, CPU/GPU Profiling, Shader Optimization, Performance Analysis
+- **Technical Art / VFX**: Houdini (VEX / HDA), Niagara, Cascade, VAT, SDF, Procedural Asset Pipeline
+- **Physics / Destruction**: Chaos Physics, Geometry Collection, Fracture, Physics Fields, Physics-Driven VFX (학습 및 구현 진행 중)
+- **Rendering / Shader**: HLSL (.usf / .ush), Unreal Material, Global Shader, RDG, Screen-Space Refraction
+- **Engine / Programming**: Unreal C++ Plugin, SceneViewExtension, DirectX 11, C++, Python, STL
+- **Optimization**: CPU/GPU Profiling, Shader Optimization, VFX Optimization, Performance Analysis
 - 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Game Engine Architecture,HLSL, Houdini 기술 학습·구현 및 분석 기록
 
 
