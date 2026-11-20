@@ -21,7 +21,7 @@ Houdini · Niagara 기반 VFX 제작 경험에 DirectX 11 · HLSL · Unreal C++ 
 
 ## 🚩 Main Game & Programming Portfolio
 
-### 01. Crazy Smash Lab — Unreal C++ Gameplay & Destruction
+### 01. Project Rehue — Unreal C++ Gameplay & Destruction
 **상태: 기획·개발 예정 / 목표: 2027년 3월 Steam 출시**  
 `Unreal Engine 5` `C++` `Gameplay Interaction` `Chaos` `Houdini` `Niagara`
 
@@ -33,7 +33,47 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - **성능 검증:** Game Thread, Actor 생성·제거 및 파괴 시스템의 성능 측정과 개선
 - **포트폴리오 산출 목표:** 플레이 가능 빌드, 핵심 코드·클래스 구조, 디버깅 사례, 성능 Before / After
 
-### 02. XR KickClay — Unreal Engine Interactive XR
+### 02. DirectX 11 — ThorPrj
+[💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
+**2026.06** · `C++` `DirectX 11` `HLSL`
+
+![DirectX 11 Demo](Thumnail/DirectX.gif)
+
+- C++ 기반 DirectX 11 렌더링 프레임워크 구현 및 그래픽스 파이프라인 학습
+- Vertex / Pixel Shader, GPU 리소스 바인딩 및 렌더링 흐름 이해
+- 클라이언트 개발 시 엔진 하위 렌더링 구조를 이해하기 위한 기술 기반
+
+### 03. Beat & Beasties — Steam Demo
+[🎮 Steam 데모](https://store.steampowered.com/app/4267610/Beat__Beasties/)  
+**2025.09 ~ 2026.03** · `Unity` `C#` `Houdini`
+
+![Beat & Beasties](Thumnail/BeatBeasties.png)
+
+- **참여 역할:** 메인 아트 총괄 및 플레이어블 핵심 개발 참여
+- 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축으로 반복 제작·테스트 효율 개선
+- 실제 게임 프로젝트의 개발·협업·데모 배포 경험
+
+### 04. Q-Pop Girl — Steam Release
+[🎮 Steam 정식 출시](https://store.steampowered.com/app/4157070/QPopGirl/)  
+**2025.12 ~ 2026.05** · `Unity` `C#`
+
+![Q-Pop Girl](Thumnail/Qpopgirl.png)
+
+- **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
+- 게임 콘텐츠를 실제로 완성하고 배포 경험
+
+### 05. Real-Time VFX Portfolio — Unreal Engine & Houdini
+[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
+**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
+
+![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
+
+- Unreal Engine 기반 **실시간 게임 VFX 포트폴리오 제작**
+- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
+- Houdini 기반 **VAT(Vertex Animation Texture), 절차적 Mesh 및 파괴 이펙트** 제작
+- 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
+  
+### 06. XR KickClay — Unreal Engine Interactive XR
 [▶ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
 **2025.06 ~ 2025.10** · `Unreal Engine 5` `XR` `Realtime Input` `Optimization`
 
@@ -44,45 +84,6 @@ Varco3D 생성 에셋과 Houdini 파괴 데이터를 활용하는 쿼터뷰 기�
 - 엔진 성능 최적화 연구에 참여하고 결과를 학술 논문으로 정리
 - **2025년 한국게임학회 추계 학술대회 논문 우수상**
 
-### 03. DirectX 11 — ThorPrj
-[💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
-**2026.06** · `C++` `DirectX 11` `HLSL`
-
-![DirectX 11 Demo](Thumnail/DirectX.gif)
-
-- C++ 기반 DirectX 11 렌더링 프레임워크 구현 및 그래픽스 파이프라인 학습
-- Vertex / Pixel Shader, GPU 리소스 바인딩 및 렌더링 흐름 이해
-- 클라이언트 개발 시 엔진 하위 렌더링 구조를 이해하기 위한 기술 기반
-
-### 04. Beat & Beasties — Steam Demo
-[🎮 Steam 데모](https://store.steampowered.com/app/4267610/Beat__Beasties/)  
-**2025.09 ~ 2026.03** · `Unity` `C#` `Houdini`
-
-![Beat & Beasties](Thumnail/BeatBeasties.png)
-
-- **참여 역할:** 메인 아트 총괄 및 플레이어블 핵심 개발 참여
-- 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축으로 반복 제작·테스트 효율 개선
-- 실제 게임 프로젝트의 개발·협업·데모 배포 경험
-
-### 05. Q-Pop Girl — Steam Release
-[🎮 Steam 정식 출시](https://store.steampowered.com/app/4157070/QPopGirl/)  
-**2025.12 ~ 2026.05** · `Unity` `C#`
-
-![Q-Pop Girl](Thumnail/Qpopgirl.png)
-
-- **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
-- 게임 콘텐츠를 실제로 완성하고 배포 경험
-
-### 06. Real-Time VFX Portfolio — Unreal Engine & Houdini
-[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
-**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
-
-![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
-
-- Unreal Engine 기반 **실시간 게임 VFX 포트폴리오 제작**
-- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
-- Houdini 기반 **VAT(Vertex Animation Texture), 절차적 Mesh 및 파괴 이펙트** 제작
-- 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
 
 ### 07. Korean Traditional Music Virtual Human — Commercial Project
 [🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://youtu.be/zqppkoFIX0g)  
