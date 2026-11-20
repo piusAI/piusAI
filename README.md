@@ -1,13 +1,13 @@
 # 🎇 VFX / Rendering Technical Artist
 
 ▸ Unreal Engine 기반의 실시간 VFX, Shader, 물리 기반 파괴 연출 및 최적화를 중심으로  
-아트와 엔진 기술을 연결하는 **Technical Artist 황효준**입니다.  
+  아트와 엔진 기술을 연결하는 **Technical Artist 황효준**입니다.  
 
 ▸ Houdini 기반의 절차적 제작과 Niagara/CasCade를 활용한 실시간 VFX 경험을 바탕으로,  
-DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 확장하고 있습니다. 
+  DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 확장하고 있습니다. 
 
 ▸ 3D 아트 제작 파이프라인 전반과 게임 엔진의 내부 구조 및 Low Level 그래픽스 파이프라인에 대한 이해를 바탕으로,  
-시각적 완성도와 실시간 성능을 함께 개선하는데 관심을 두고 있습니다.
+  시각적 완성도와 실시간 성능을 함께 개선하는데 관심을 두고 있습니다.
 
 **Target Position** : VFX / Rendering Technical Artist
 **Specialization** : Real-Time VFX · Houdini / Procedural Workflow · Shader / HLSL · Chaos Destruction · Optimization
