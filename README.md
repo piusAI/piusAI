@@ -147,7 +147,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 - **Render Target 연동** — Blueprint 기반 Render Target 처리 로직을 C++로 이관하고, MPC(Material Parameter Collection)를 통해 셰이더에 파라미터가 전달되는 흐름 분석
 - **적응형 지형 테셀레이션** — 상호작용 영역에 따라 지형의 세분화 수준을 조절하는 방식을 Compute Shader와 RDG 기반으로 실험
-- **성능 이슈** — Game Thread → Render Thread 데이터 전달을 포함한 테스트에서 프레임 저하가 관찰되어 실험을 보류. 병목 원인은 미확정
+- **성능 이슈** — Game Thread → Render Thread 데이터 전달을 포함한 테스트에서 프레임 저하가 관찰되어 실험을 보류. 병목 원인은 추정중..
 
 ## 📂 Additional Projects & Art Background
 
