@@ -116,7 +116,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
-### 01. 굴절 RDG Pass  
+### 01. 굴절 RDG Pass  (KCI 투고완료)
 [🎞️ 시연 연상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
 ![Refraction Thumnail](Thumnail/RefractionThumnail2.png)
 
@@ -131,7 +131,6 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`
 - VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
 - Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
-
 
 
 #### B. Animation Motion Semantic  
