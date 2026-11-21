@@ -116,9 +116,11 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
-### 01. 굴절 RDG Pass :  [Screen-Space Refraction](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
+### 01. 굴절 RDG Pass  
+[▶ 시연 연상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
 ![Refraction Thumnail](Thumnail/RefractionThumnail2.png)
-— Unreal C++ / RDG / HLSL  
+
+- Unreal C++ / RDG / HLSL  
 - 깊이 불연속을 고려한 Newton 기반 Screen-Space Refraction 보정 연구
 - Unreal C++ 플러그인, RDG Pass 및 `.usf` 셰이더 구조 분석·실험
 - 기존 방식과 비교한 시각적 오류 및 성능 평가
@@ -139,9 +141,9 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 
 ### 03. Active Interaction Zone : Dynamic Tesselation (보류..)
+[▶시연 영상](https://youtu.be/5quB66ROCn0)
 ![AIZ Thumnail](Thumnail/AIZThumnail2.png)
 
-[▶시연 영상](https://youtu.be/5quB66ROCn0)
 - 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 진행
 - 현재 GT->RT로 보내는 과정에서 프레임 드랍이 너무 심해서 아이디어 오류인 것 같아 잠시 보류
 
