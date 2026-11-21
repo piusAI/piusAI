@@ -64,7 +64,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 - **참여 역할:** 메인 아트 총괄 및 플레이어블 핵심 개발 참여
 - 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축으로 반복 제작·테스트 효율 개선
-- 실제 게임 프로젝트의 개발·협업·데모 배포 경험
+- 실제 게임 프로젝트의 개발·협업·데모 배포
 
 ### 04. Q-Pop Girl — Steam Release
 [🎮 Steam 정식 출시](https://store.steampowered.com/app/4157070/QPopGirl/)  
@@ -73,7 +73,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ![Q-Pop Girl](Thumnail/Qpopgirl.png)
 
 - **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
-- 게임 콘텐츠를 실제로 완성하고 배포 경험
+- 게임 콘텐츠를 실제로 완성하고 배포
 
 ### 05. Real-Time VFX Portfolio — Unreal Engine & Houdini
 [🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
@@ -92,7 +92,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ![KickClay XR](Thumnail/KickClayXR2.png)
 
-- 실시간 센서 입력과 게임 내 상호작용을 연결하는 XR 콘텐츠 개발 경험
+- 실시간 센서 입력과 게임 내 상호작용을 연결하는 XR 콘텐츠 개발
 - 대형 하이브리드 프로젝션 환경에서 입력·게임 진행·화면 출력 연동
 - 엔진 성능 최적화 연구에 참여하고 결과를 학술 논문으로 정리
 - **2025년 한국게임학회 추계 학술대회 논문 우수상**
@@ -145,7 +145,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 | [Houdini Procedural Modeling](https://www.youtube.com/playlist?list=PLcBkRBTJf8ZI9YiDyFrWVfVmLf8Bs3cWU) | VEX / HDA를 활용한 절차적 모델링 및 파이프라인 |
 | [RAG + Qdrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 프로토타입 |
 | [실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA) | 실시간 분석·점수 시각화 프로토타입 |
-| [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 경험 |
+| [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 |
 
 
 ## 🎓 Education & Awards
