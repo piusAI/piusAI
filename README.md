@@ -129,7 +129,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ### 02. NCAi R&D - Physics Destruction & Motion Semantics
 #### A. Physics GameReady Asset Pipeline - Chaos Desturction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`
-- VARCO 3D 에셋의 메시 파츠와 파츠별 물리 속성을 Unreal Geometry Collection에 자동 연동 파이프라인 연구
+- VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
 - Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
 
 
@@ -140,12 +140,14 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
 
-### 03. Active Interaction Zone : Dynamic Tesselation (보류..)
+### 03. Active Interaction Zone : Dynamic Tesselation (보류中..)
 [🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
 ![AIZ Thumnail](Thumnail/AIZThumnail2.png)
+`Unreal Engine` `C++` `HLSL` `Compute Shader` `RDG`
 
-- 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 진행
-- 현재 GT->RT로 보내는 과정에서 프레임 드랍이 너무 심해서 아이디어 오류인 것 같아 잠시 보류
+- **Render Target 연동** — Blueprint 기반 Render Target 처리 로직을 C++로 이관하고, MPC(Material Parameter Collection)를 통해 셰이더에 파라미터가 전달되는 흐름 분석
+- **적응형 지형 테셀레이션** — 상호작용 영역에 따라 지형의 세분화 수준을 조절하는 방식을 Compute Shader와 RDG 기반으로 실험
+- **성능 이슈** — Game Thread → Render Thread 데이터 전달을 포함한 테스트에서 프레임 저하가 관찰되어 실험을 보류. 병목 원인은 미확정
 
 ## 📂 Additional Projects & Art Background
 
