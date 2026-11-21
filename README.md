@@ -27,7 +27,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ## 🚩 Main Game & Programming Portfolio
 
 ### 01. Project Re;Hue — Unreal Engine Action & Technical Art
-[▶ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
+[🎞️ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
 
 ![ProjectRehue](Thumnail/ProjectRH.png)
 **2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 계획**
@@ -87,7 +87,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
   
 ### 06. XR KickClay — Unreal Engine Interactive XR
-[▶ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
+[🎞️ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
 **2025.06 ~ 2025.10** · `Unreal Engine 5` `XR` `Realtime Input` `Optimization`
 
 ![KickClay XR](Thumnail/KickClayXR2.png)
@@ -117,7 +117,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
 ### 01. 굴절 RDG Pass  
-[▶ 시연 연상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
+[🎞️ 시연 연상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
 ![Refraction Thumnail](Thumnail/RefractionThumnail2.png)
 
 - Unreal C++ / RDG / HLSL  
@@ -135,13 +135,13 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 
 #### B. Animation Motion Semantic  
-[▶ 시연 연상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
+[🎞️ 시연 연상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
 - FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
 
 ### 03. Active Interaction Zone : Dynamic Tesselation (보류..)
-[▶시연 영상](https://youtu.be/5quB66ROCn0)
+[🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
 ![AIZ Thumnail](Thumnail/AIZThumnail2.png)
 
 - 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 진행
