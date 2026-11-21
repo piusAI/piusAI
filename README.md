@@ -124,13 +124,16 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 기존 방식과 비교한 시각적 오류 및 성능 평가
 - Full Triangle RDG Pass 등록
 
-### 02. NCAi 과제
-#### A. Physics GameReady연구
-- 물리 속성 parts들 자동 Varco3d-Unreal 연동되도록 **Geometry Collection**
-- Chaos 물리와 연결
+### 02. NCAi R&D - Physics Destruction & Motion Semantics
+#### A. Physics GameReady Asset Pipeline - Chaos Desturction
+`VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`
+- VARCO 3D 에셋의 메시 파츠와 파츠별 물리 속성을 Unreal Geometry Collection에 자동 연동 파이프라인 연구
+- Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
+
+
 
 #### B. Animation Motion Semantic
-[MotionSemantic — NC VarcoAI 관련 R&D](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
+[▶ MotionSemantic — NC VARCO AI R&D](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
 - FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
