@@ -110,7 +110,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **Maya / Houdini Asset Pipeline:** Varco AI 기반 Base Mesh 및 외부 제작 에셋 통합, Mesh 구조 정리 및 최종 에셋 구성
 - **Procedural Asset Automation:** Houdini 기반 Prop Scale 자동 조정 툴을 활용한 소품 크기·비율 일괄 조정 및 반복 작업 효율화
 - **Unreal Engine Integration:** 캐릭터·의상·소품 에셋 통합, Material Instance 분리·설정 및 최종 Scene 구성
-- **Commercial Delivery:** 캐릭터 모델링 에셋 5종 및 소품 제작·납품 완료, **제작 용역 매출 1,000만 원 달성**
+- **Commercial Delivery:** 캐릭터 모델링 에셋 5종 및 소품 제작·납품 완료, **제작 매출 1,000만 원 달성**
 
 ※ 얼굴 스컬핑 및 의상 모델링은 외부 아티스트와 협업, 리깅·애니메이션은 제작 범위에서 제외.
 
