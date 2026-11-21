@@ -63,7 +63,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ![Beat & Beasties](Thumnail/BeatBeasties.png)
 
 - **참여 역할:** 메인 아트 총괄 및 플레이어블 핵심 개발 참여
-- 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축으로 반복 제작·테스트 효율 개선
+- 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축, 반복 제작·테스트 효율 개선
 - 실제 게임 프로젝트의 개발·협업·데모 배포
 
 ### 04. Q-Pop Girl — Steam Release
@@ -94,7 +94,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 - 실시간 센서 입력과 게임 내 상호작용을 연결하는 XR 콘텐츠 개발
 - 대형 하이브리드 프로젝션 환경에서 입력·게임 진행·화면 출력 연동
-- 엔진 성능 최적화 연구에 참여하고 결과를 학술 논문으로 정리
+- 엔진 성능 최적화 연구에 참여하고 결과를 학술 논문 발표
 - **2025년 한국게임학회 추계 학술대회 논문 우수상**
 
 
