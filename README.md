@@ -112,23 +112,18 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **Unreal Engine Integration:** 캐릭터·의상·소품 에셋 통합, Material Instance 분리·설정 및 최종 Scene 구성
 - **Commercial Delivery:** 캐릭터 모델링 에셋 5종 및 소품 제작·납품 완료, **제작 매출 1,000만 원 달성**
 
-※ 얼굴 스컬핑 및 의상 모델링은 외부 아티스트와 협업, 리깅·애니메이션은 제작 범위에서 제외.
+※ 얼굴 스컬핑 및 의상 모델링은 외부 아티스트와 협업, 리깅·애니메이션은 제작 범위에서 제외
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
-### [Screen-Space Refraction](https://www.youtube.com/shorts/oU3UkWu6Gt0) — Unreal C++ / RDG / HLSL
-**2026년 11월 연구 마무리 단계**
-
+### [Screen-Space Refraction](https://www.youtube.com/shorts/oU3UkWu6Gt0) — Unreal C++ / RDG / HLSL  
 - 깊이 불연속을 고려한 Newton 기반 Screen-Space Refraction 보정 연구
 - Unreal C++ 플러그인, RDG Pass 및 `.usf` 셰이더 구조 분석·실험
 - 기존 방식과 비교한 시각적 오류 및 성능 평가
-- **구현 코드에서 직접 검증·수정한 부분과 AI 보조로 작성한 부분을 구분하여 정리**
 
-### [MotionSemantic — NC VarcoAI 관련 R&D](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)
-
+### [MotionSemantic — NC VarcoAI 관련 R&D](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
 - FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
-- C++ 인터페이스와 애니메이션 데이터 전달 구조 설계·분석
 
 
 
