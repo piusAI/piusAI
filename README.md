@@ -132,15 +132,16 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 
 
-#### B. Animation Motion Semantic
-[▶ MotionSemantic — NC VARCO AI R&D](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
+#### B. Animation Motion Semantic  
+[▶ 시연 연상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
 - FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
 
-### [AIZ Tessellation Optimization](https://youtu.be/5quB66ROCn0)(보류중)
+### 03. Active Interaction Zone : Dynamic Tesselation (보류..)
 ![AIZ Thumnail](Thumnail/AIZThumnail2.png)
 
+[▶시연 영상](https://youtu.be/5quB66ROCn0)
 - 적응적 지형 세분화, C++ / HLSL / Compute Shader / RDG 연구 진행
 - 현재 GT->RT로 보내는 과정에서 프레임 드랍이 너무 심해서 아이디어 오류인 것 같아 잠시 보류
 
