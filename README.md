@@ -83,11 +83,11 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 - Unreal Engine 기반 **실시간 게임 VFX 포트폴리오 제작**
 - Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
-- Houdini 기반 **VAT(Vertex Animation Texture), 절차적 Mesh 및 파괴 이펙트** 제작
+- Houdini 절차적 Mesh 및 파괴 이펙트** 제작
 - 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
 
-[🎞️ 고화질 연상](https://www.youtube.com/watch?v=ifUBRqQ0h1Y)  
 ![VAT Blood](Thumnail/VATBlood.gif)
+- Houdini 기반 VAT Blood Fluid Simulation
   
 ### 06. XR KickClay — Unreal Engine Interactive XR
 [🎞️ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
@@ -104,7 +104,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
 ### 01. 굴절 RDG Pass  (KCI 투고완료)
-[🎞️ 시연 연상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
+[🎞️ 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
 ![Refraction Thumnail](Thumnail/RefractionThumnail2.png)
 
 - Unreal C++ / RDG / HLSL  
@@ -116,13 +116,13 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ### 02. NCAi R&D - Physics Destruction & Motion Semantics
 #### A. Physics GameReady Asset Pipeline - Chaos Desturction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
-[🎞️ 고화질 연상](https://www.youtube.com/watch?v=G29czu3R7i0)  
+[🎞️ 고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)  
 ![HoudiniToUEDestruction](Thumnail/DestructionHtoUE2.gif)
 - VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
 - Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
 
 #### B. Animation Motion Semantic  
-[🎞️ 시연 연상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
+[🎞️ 시연 영상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
 - FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
