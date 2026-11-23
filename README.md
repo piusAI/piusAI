@@ -3,7 +3,7 @@
 ▸ Real-Time VFX, Shader, Physics 기반 파괴 연출 및 최적화를 중심으로  
 아트와 엔진 기술을 연결하는 **Technical Artist 황효준**입니다.  
 
-▸ Houdini 기반의 절차적 제작과 Niagara/CasCade를 활용한 실시간 VFX 경험을 바탕으로  
+▸ Houdini 기반의 절차적 제작과 Niagara/Cascade를 활용한 실시간 VFX 경험을 바탕으로  
 DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 확장하고 있습니다. 
 
 ▸ 3D Art 제작 Pipeline 전반과 게임 엔진의 내부 구조 및 Low-Level 그래픽스 파이프라인에 대한 이해를 바탕으로  
@@ -75,7 +75,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
   </tr>
 </table>
 
-- Houdini 기반 VAT Blood Fluid Simulation
+- Houdini Fluid Simulation to VAT Bake, UE 적용
   
 ### 04. DirectX 11 — ThorPrj
 [💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
@@ -92,7 +92,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
 ### 01. NCAi R&D - Physics Destruction & Motion Semantics
-#### A. Physics GameReady Asset Pipeline - Chaos Desturction
+#### A. Physics GameReady Asset Pipeline - Chaos Destruction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
 - VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
 - Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
@@ -103,7 +103,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
 
-### 02. Active Interaction Zone : Dynamic Tesselation (보류中..)
+### 02. Active Interaction Zone : Dynamic Tessellation (보류中..)
 [🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
 ![AIZ Thumnail](Thumnail/AIZThumnail2.png)
 `Unreal Engine` `C++` `HLSL` `Compute Shader` `RDG`
