@@ -26,7 +26,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ## 🚩 Main Portfolio
 
 ### 01. VFX Tech Art — Houdini, Chaos & Niagara
-[고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)
+
+[🎞️고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)
 ![Houdini to Unreal Engine Chaos Destruction](Thumnail/DestructionHtoUE2.gif)
 
 **구현** : Unreal Geometry Collection - Chaos 연동해 실시간 물리 파괴 프로토타입 구현 진행중
@@ -82,8 +83,6 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ### 01. NCAi R&D - Physics Destruction & Motion Semantics
 #### A. Physics GameReady Asset Pipeline - Chaos Desturction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
-[🎞️ 고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)  
-![HoudiniToUEDestruction](Thumnail/DestructionHtoUE2.gif)
 - VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
 - Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
 
