@@ -37,11 +37,14 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **VFX 성능 분석** — 파편 충돌 설정과 Niagara 파티클 수에 따른 CPU·GPU 프레임 타임을 비교.
 
 
-### 02. Shader Tech Art — Unreal Material & HLSL
+### 02. Shader Tech Art — Unreal Material & HLSL ( KCI 투고 완료 )
 [화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
 ![Screen-Space Refraction RDG Pass](Thumnail/RefractionThumnail2.png)
-
-**구현** — Unreal C++ 플러그인, RDG, Global Pixel Shader를 사용해 깊이 불연속 영역을 보정하는 Newton 기반 화면 공간 굴절 구현. **KCI 등재지 투고 완료.**
+- Unreal C++ / RDG / HLSL  
+- 깊이 불연속을 고려한 Newton 기반 Screen-Space Refraction 보정 연구
+- Unreal C++ 플러그인, RDG Pass 및 `.usf` 셰이더 구조 분석·실험
+- 기존 방식과 비교한 시각적 오류 및 성능 평가
+- Full Triangle RDG Pass 등록
 
 **개발 예정**
 - **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개를 제작. Material Function과 Material Instance로 재사용할 수 있게 구성, 게임 이벤트와 Niagara를 통해 파라미터를 제어.
@@ -76,17 +79,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
-### 01. 굴절 RDG Pass  (KCI 투고완료)
-[🎞️ 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
-![Refraction Thumnail](Thumnail/RefractionThumnail2.png)
-
-- Unreal C++ / RDG / HLSL  
-- 깊이 불연속을 고려한 Newton 기반 Screen-Space Refraction 보정 연구
-- Unreal C++ 플러그인, RDG Pass 및 `.usf` 셰이더 구조 분석·실험
-- 기존 방식과 비교한 시각적 오류 및 성능 평가
-- Full Triangle RDG Pass 등록
-
-### 02. NCAi R&D - Physics Destruction & Motion Semantics
+### 01. NCAi R&D - Physics Destruction & Motion Semantics
 #### A. Physics GameReady Asset Pipeline - Chaos Desturction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
 [🎞️ 고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)  
@@ -100,7 +93,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
 
-### 03. Active Interaction Zone : Dynamic Tesselation (보류中..)
+### 02. Active Interaction Zone : Dynamic Tesselation (보류中..)
 [🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
 ![AIZ Thumnail](Thumnail/AIZThumnail2.png)
 `Unreal Engine` `C++` `HLSL` `Compute Shader` `RDG`
