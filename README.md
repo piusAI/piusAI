@@ -49,7 +49,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 
 **개발 예정**
-- **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개를 제작. Material Function과 Material Instance로 재사용할 수 있게 구성, 게임 이벤트와 Niagara를 통해 파라미터 제어.
+- **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개 제작. Material Function과 Material Instance로 재사용할 수 있게 구성, 게임 이벤트와 Niagara를 통해 파라미터 제어.
 - **Unreal C++ / HLSL** — `.usf` / `.ush`와 RDG를 사용한 독립 렌더링 기능 1개를 구현, C++에서 셰이더로 파라미터와 리소스를 전달하는 과정 정리.
 - **Shader Profiling** — Shader Complexity로 비용이 높은 구간을 찾고, 텍스처 샘플과 셰이더 명령 수를 확인. 동일한 장면에서 최적화 전후의 GPU 시간 비교.
 
