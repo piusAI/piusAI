@@ -24,7 +24,73 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Game Engine Architecture,HLSL, Houdini 기술 학습·구현 및 분석 기록
 
 
-## 🚩 Main Game & Programming Portfolio
+## 🚩 Main Portfolio
+
+
+### 05. Real-Time VFX Portfolio — Unreal Engine & Houdini
+[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
+**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
+
+![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
+
+- Unreal Engine 기반 **실시간 게임 VFX 포트폴리오 제작**
+- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
+- Houdini 절차적 Mesh 및 파괴 이펙트** 제작
+- 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
+
+![VAT Blood](Thumnail/VATBlood.gif)
+- Houdini 기반 VAT Blood Fluid Simulation
+  
+
+
+
+## 🔬 Technical R&D — Engine, Interaction & Optimization
+
+### 01. 굴절 RDG Pass  (KCI 투고완료)
+[🎞️ 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
+![Refraction Thumnail](Thumnail/RefractionThumnail2.png)
+
+- Unreal C++ / RDG / HLSL  
+- 깊이 불연속을 고려한 Newton 기반 Screen-Space Refraction 보정 연구
+- Unreal C++ 플러그인, RDG Pass 및 `.usf` 셰이더 구조 분석·실험
+- 기존 방식과 비교한 시각적 오류 및 성능 평가
+- Full Triangle RDG Pass 등록
+
+### 02. NCAi R&D - Physics Destruction & Motion Semantics
+#### A. Physics GameReady Asset Pipeline - Chaos Desturction
+`VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
+[🎞️ 고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)  
+![HoudiniToUEDestruction](Thumnail/DestructionHtoUE2.gif)
+- VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
+- Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
+
+#### B. Animation Motion Semantic  
+[🎞️ 시연 영상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
+- FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
+- 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
+
+
+### 03. Active Interaction Zone : Dynamic Tesselation (보류中..)
+[🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
+![AIZ Thumnail](Thumnail/AIZThumnail2.png)
+`Unreal Engine` `C++` `HLSL` `Compute Shader` `RDG`
+
+- **Render Target 연동** — Blueprint 기반 Render Target 처리 로직을 C++로 이관하고, MPC(Material Parameter Collection)를 통해 셰이더에 파라미터가 전달되는 흐름 분석
+- **적응형 지형 테셀레이션** — 상호작용 영역에 따라 지형의 세분화 수준을 조절하는 방식을 Compute Shader와 RDG 기반으로 실험
+- **성능 이슈** — Game Thread → Render Thread 데이터 전달을 포함한 테스트에서 프레임 저하가 관찰되어 실험을 보류. 병목 원인은 추정중..
+
+## 📂 Additional Projects & Art Background
+
+| 프로젝트 / 작업 | 내용 |
+| --- | --- |
+| [Unity-HDA](https://youtu.be/5EGHmrIraA0) | Houdini HDA 기반 Unity 맵 생성 프로토타입 |
+| [Houdini Procedural Modeling](https://www.youtube.com/playlist?list=PLcBkRBTJf8ZI9YiDyFrWVfVmLf8Bs3cWU) | VEX / HDA를 활용한 절차적 모델링 및 파이프라인 |
+| [RAG + Qdrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 프로토타입 |
+| [실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA) | 실시간 분석·점수 시각화 프로토타입 |
+| [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 |
+
+
+## Game Project
 
 ### 01. Project Re;Hue — Unreal Engine Action & Technical Art
 [🎞️ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
@@ -75,21 +141,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
 - 게임 콘텐츠를 실제로 완성하고 배포
 
-### 05. Real-Time VFX Portfolio — Unreal Engine & Houdini
-[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
-**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
-
-![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
-
-- Unreal Engine 기반 **실시간 게임 VFX 포트폴리오 제작**
-- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
-- Houdini 절차적 Mesh 및 파괴 이펙트** 제작
-- 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
-
-![VAT Blood](Thumnail/VATBlood.gif)
-- Houdini 기반 VAT Blood Fluid Simulation
-  
-### 06. XR KickClay — Unreal Engine Interactive XR
+### 05. XR KickClay — Unreal Engine Interactive XR
 [🎞️ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
 **2025.06 ~ 2025.10** · `Unreal Engine 5` `XR` `Realtime Input` `Optimization`
 
@@ -100,54 +152,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 엔진 성능 최적화 연구에 참여하고 결과를 학술 논문 발표
 - **2025년 한국게임학회 추계 학술대회 논문 우수상**
 
-
-## 🔬 Technical R&D — Engine, Interaction & Optimization
-
-### 01. 굴절 RDG Pass  (KCI 투고완료)
-[🎞️ 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)  
-![Refraction Thumnail](Thumnail/RefractionThumnail2.png)
-
-- Unreal C++ / RDG / HLSL  
-- 깊이 불연속을 고려한 Newton 기반 Screen-Space Refraction 보정 연구
-- Unreal C++ 플러그인, RDG Pass 및 `.usf` 셰이더 구조 분석·실험
-- 기존 방식과 비교한 시각적 오류 및 성능 평가
-- Full Triangle RDG Pass 등록
-
-### 02. NCAi R&D - Physics Destruction & Motion Semantics
-#### A. Physics GameReady Asset Pipeline - Chaos Desturction
-`VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
-[🎞️ 고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)  
-![HoudiniToUEDestruction](Thumnail/DestructionHtoUE2.gif)
-- VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
-- Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
-
-#### B. Animation Motion Semantic  
-[🎞️ 시연 영상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
-- FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
-- 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
-
-
-### 03. Active Interaction Zone : Dynamic Tesselation (보류中..)
-[🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
-![AIZ Thumnail](Thumnail/AIZThumnail2.png)
-`Unreal Engine` `C++` `HLSL` `Compute Shader` `RDG`
-
-- **Render Target 연동** — Blueprint 기반 Render Target 처리 로직을 C++로 이관하고, MPC(Material Parameter Collection)를 통해 셰이더에 파라미터가 전달되는 흐름 분석
-- **적응형 지형 테셀레이션** — 상호작용 영역에 따라 지형의 세분화 수준을 조절하는 방식을 Compute Shader와 RDG 기반으로 실험
-- **성능 이슈** — Game Thread → Render Thread 데이터 전달을 포함한 테스트에서 프레임 저하가 관찰되어 실험을 보류. 병목 원인은 추정중..
-
-## 📂 Additional Projects & Art Background
-
-| 프로젝트 / 작업 | 내용 |
-| --- | --- |
-| [Unity-HDA](https://youtu.be/5EGHmrIraA0) | Houdini HDA 기반 Unity 맵 생성 프로토타입 |
-| [Houdini Procedural Modeling](https://www.youtube.com/playlist?list=PLcBkRBTJf8ZI9YiDyFrWVfVmLf8Bs3cWU) | VEX / HDA를 활용한 절차적 모델링 및 파이프라인 |
-| [RAG + Qdrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 프로토타입 |
-| [실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA) | 실시간 분석·점수 시각화 프로토타입 |
-| [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 |
-
-
-### Korean Traditional Music Virtual Human — Commercial Project
+### 06. Korean Traditional Music Virtual Human — Commercial Project
 [🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://youtu.be/zqppkoFIX0g)  
 2026.05 ~ 2026.11 · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
 
