@@ -166,7 +166,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - 엔진 성능 최적화 연구에 참여하고 결과를 학술 논문 발표
 - **2025년 한국게임학회 추계 학술대회 논문 우수상**
 
-### 06. Korean Traditional Music Virtual Human — Commercial Project
+### 05. Korean Traditional Music Virtual Human — Commercial Project
 [🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://youtu.be/zqppkoFIX0g)  
 2026.05 ~ 2026.11 · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
 
