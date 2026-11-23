@@ -25,38 +25,28 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🚩 Main Portfolio
 
-### 01. VFX Tech Art
-- Chaos Module · Houdini 연동 · Cpp Chaos
-- Niagara Custom Module
-
-### 02. Shader Tech Art
-- usf, HLSL
-
 ### 01. VFX Tech Art — Houdini, Chaos & Niagara
-
+[고화질 영상](https://www.youtube.com/watch?v=G29czu3R7i0)
 ![Houdini to Unreal Engine Chaos Destruction](Thumnail/DestructionHtoUE2.gif)
 
-**구현** — Unreal Geometry Collection과 Chaos를 연동해 충돌 시 파편이 분리되고 물리 시뮬레이션으로 움직이는 런타임 파괴 프로토타입을 구현했습니다.
+**구현** : Unreal Geometry Collection - Chaos 연동해 실시간 물리 파괴 프로토타입 구현 진행중
 
 **개발 예정**
-- **Houdini → Chaos 파괴 파이프라인** — Fracture, Clustering, 파편 속성을 Geometry Collection에 연동하고, 충돌 위치·방향·충격량에 반응하는 파괴를 구현합니다. 파괴 에셋 제작 과정을 Houdini HDA로 정리합니다.
-- **Niagara Custom Module** — 충격 방향과 강도로 파티클 속도·분포를 제어하는 Directional Impact Module을 제작합니다. Chaos Break / Collision 이벤트로 먼지와 파편 효과를 발생시키고, C++ / Blueprint의 공격·패링·타격 이벤트와 연동합니다.
-- **파괴 VFX 룩뎁 및 성능 분석** — 파괴 상태에 따라 균열·디졸브 머티리얼을 제어하고, 파편 충돌 설정과 Niagara 파티클 수에 따른 CPU·GPU 프레임 타임을 비교합니다.
+- **Houdini → Chaos 파괴 파이프라인** — Fracture, Clustering, 파편 속성을 Geometry Collection에 연동, 충돌 위치·방향·충격량에 반응하는 파괴를 구현. HDA 파괴 에셋 제작 .
+- **Niagara Custom Module** — 충격 방향과 강도로 파티클 속도·분포를 제어하는 Directional Impact Module을 제작. Chaos Break / Collision 이벤트로 먼지와 파편 효과를 발생시키고, C++ / Blueprint의 공격·패링·타격 이벤트와 연동.
+- **VFX 성능 분석** — 파편 충돌 설정과 Niagara 파티클 수에 따른 CPU·GPU 프레임 타임을 비교.
 
-[Chaos 파괴 시연 영상](https://www.youtube.com/watch?v=G29czu3R7i0)
 
 ### 02. Shader Tech Art — Unreal Material & HLSL
-
+[화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
 ![Screen-Space Refraction RDG Pass](Thumnail/RefractionThumnail2.png)
 
-**구현** — Unreal C++ 플러그인, RDG, Global Pixel Shader를 사용해 깊이 불연속 영역을 보정하는 Newton 기반 화면 공간 굴절을 구현했습니다. **KCI 등재지 투고 완료.**
+**구현** — Unreal C++ 플러그인, RDG, Global Pixel Shader를 사용해 깊이 불연속 영역을 보정하는 Newton 기반 화면 공간 굴절 구현. **KCI 등재지 투고 완료.**
 
 **개발 예정**
-- **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개를 제작합니다. Material Function과 Material Instance로 재사용할 수 있게 구성하고, 게임 이벤트와 Niagara를 통해 파라미터를 제어합니다.
-- **Unreal C++ / HLSL** — `.usf` / `.ush`와 RDG를 사용한 독립 렌더링 기능 1개를 구현하고, C++에서 셰이더로 파라미터와 리소스를 전달하는 과정을 정리합니다.
-- **Shader Profiling** — Shader Complexity로 비용이 높은 구간을 찾고, 텍스처 샘플과 셰이더 명령 수를 확인합니다. 동일한 장면에서 최적화 전후의 GPU 시간을 비교합니다.
-
-[화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
+- **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개를 제작. Material Function과 Material Instance로 재사용할 수 있게 구성, 게임 이벤트와 Niagara를 통해 파라미터를 제어.
+- **Unreal C++ / HLSL** — `.usf` / `.ush`와 RDG를 사용한 독립 렌더링 기능 1개를 구현, C++에서 셰이더로 파라미터와 리소스를 전달하는 과정을 정리.
+- **Shader Profiling** — Shader Complexity로 비용이 높은 구간을 찾고, 텍스처 샘플과 셰이더 명령 수를 확인. 동일한 장면에서 최적화 전후의 GPU 시간을 비교.
 
 
 ### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
