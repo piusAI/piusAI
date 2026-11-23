@@ -43,7 +43,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 #### Screen Space Refraction RDG pass  
 [화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
 ![Screen-Space Refraction RDG Pass](Thumnail/RefractionThumnail2.png)
-`Unreal C++` `RDG` `HLSL  
+`Unreal C++` `RDG` `HLSL `
 - 현재 KCI 투고 완료 (심사 대기 중)
 - UE C++ plugin module에서 RDG Fullscreen pass, HLSL Pixel Shader로 깊이 경계 보정 구현
 
