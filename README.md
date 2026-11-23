@@ -63,11 +63,6 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
 - Houdini 절차적 Mesh 및 파괴 이펙트** 제작
 
-![VAT Blood](Thumnail/VATBlood.gif)
-- Houdini 기반 VAT Blood Fluid Simulation
-
-
-
 <table>
   <tr>
     <td align="center">
@@ -78,6 +73,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
     <th align="center">VAT in Unreal Engine</th>
   </tr>
 </table>
+
+- Houdini 기반 VAT Blood Fluid Simulation
   
 ### 04. DirectX 11 — ThorPrj
 [💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
