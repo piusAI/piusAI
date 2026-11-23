@@ -26,8 +26,13 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🚩 Main Portfolio
 
+### 01. VFX Tool
+- 제작중
 
-### 05. Real-Time VFX Portfolio — Unreal Engine & Houdini
+### 02. Shader Tool
+- 제작중
+
+### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
 [🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
 **2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
 
@@ -41,7 +46,6 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ![VAT Blood](Thumnail/VATBlood.gif)
 - Houdini 기반 VAT Blood Fluid Simulation
   
-
 
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
