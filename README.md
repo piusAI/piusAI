@@ -31,21 +31,11 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ### 02. Shader Tech Art
 - usf
 
+
+
 ### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
 [🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
 **2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
-
-
-### DirectX 11 — ThorPrj
-[💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
-**2026.06** · `C++` `DirectX 11` `HLSL`
-
-![DirectX 11 Demo](Thumnail/DirectX.gif)
-
-- C++ 기반 DirectX 11 Rendering FrameWork 구현 및 그래픽스 파이프라인 학습
-- Vertex / Pixel Shader, GPU Resource Binding / Rendering 흐름 이해
-- 상용 엔진의 하위 렌더링 구조를 이해하기 위한 기술 기반
-
 
 ![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
 
@@ -56,6 +46,16 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ![VAT Blood](Thumnail/VATBlood.gif)
 - Houdini 기반 VAT Blood Fluid Simulation
   
+### 04. DirectX 11 — ThorPrj
+[💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
+**2026.06** · `C++` `DirectX 11` `HLSL`
+
+![DirectX 11 Demo](Thumnail/DirectX.gif)
+
+- C++ 기반 DirectX 11 Rendering FrameWork 구현 및 그래픽스 파이프라인 학습
+- Vertex / Pixel Shader, GPU Resource Binding / Rendering 흐름 이해
+- 상용 엔진의 하위 렌더링 구조를 이해하기 위한 기술 기반
+
 
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
