@@ -49,9 +49,9 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 
 **개발 예정**
-- **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개를 제작. Material Function과 Material Instance로 재사용할 수 있게 구성, 게임 이벤트와 Niagara를 통해 파라미터를 제어.
-- **Unreal C++ / HLSL** — `.usf` / `.ush`와 RDG를 사용한 독립 렌더링 기능 1개를 구현, C++에서 셰이더로 파라미터와 리소스를 전달하는 과정을 정리.
-- **Shader Profiling** — Shader Complexity로 비용이 높은 구간을 찾고, 텍스처 샘플과 셰이더 명령 수를 확인. 동일한 장면에서 최적화 전후의 GPU 시간을 비교.
+- **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개를 제작. Material Function과 Material Instance로 재사용할 수 있게 구성, 게임 이벤트와 Niagara를 통해 파라미터 제어.
+- **Unreal C++ / HLSL** — `.usf` / `.ush`와 RDG를 사용한 독립 렌더링 기능 1개를 구현, C++에서 셰이더로 파라미터와 리소스를 전달하는 과정 정리.
+- **Shader Profiling** — Shader Complexity로 비용이 높은 구간을 찾고, 텍스처 샘플과 셰이더 명령 수를 확인. 동일한 장면에서 최적화 전후의 GPU 시간 비교.
 
 
 ### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
@@ -94,8 +94,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ### 01. NCAi R&D - Physics Destruction & Motion Semantics
 #### A. Physics GameReady Asset Pipeline - Chaos Destruction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
-- VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
-- Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
+- VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection과 연동해 자동 연동 파이프라인 연구 中
+- Geometry Collection -> Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
 
 #### B. Animation Motion Semantic  
 [🎞️ 시연 영상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
