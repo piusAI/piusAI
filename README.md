@@ -130,7 +130,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 #### A. Physics GameReady Asset Pipeline - Chaos Desturction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
 [🎞️ 고화질 연상](https://www.youtube.com/watch?v=G29czu3R7i0)  
-![HoudiniToUEDestruction](Thumnail/HoudiniToUEDestruction2.gif)
+![HoudiniToUEDestruction](Thumnail/DestructionHtoUE2.gif)
 - VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection을 활용한 자동 연동 파이프라인 연구 中
 - Geometry Collection을 Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
 
