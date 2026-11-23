@@ -98,22 +98,6 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **2025년 한국게임학회 추계 학술대회 논문 우수상**
 
 
-### 07. Korean Traditional Music Virtual Human — Commercial Project
-[🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://youtu.be/zqppkoFIX0g)  
-2026.05 ~ 2026.11 · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
-
-![virtual Project](Thumnail/KoreanVirtualHuman.png)
-
-**국악 버추얼 휴먼 프로젝트 - 캐릭터 제작 총괄 및 Unreal Engine 기반 3D 캐릭터·소품 제작 납품**
-
-- **Art Direction & Production:** 얼굴 스컬핑·의상 모델러 2명과 협업, 제작 방향 설정 및 에셋 검수·수정 총괄
-- **Maya / Houdini Asset Pipeline:** Varco AI 기반 Base Mesh 및 외부 제작 에셋 통합, Mesh 구조 정리 및 최종 에셋 구성
-- **Procedural Asset Automation:** Houdini 기반 Prop Scale 자동 조정 툴을 활용한 소품 크기·비율 일괄 조정 및 반복 작업 효율화
-- **Unreal Engine Integration:** 캐릭터·의상·소품 에셋 통합, Material Instance 분리·설정 및 최종 Scene 구성
-- **Commercial Delivery:** 캐릭터 모델링 에셋 5종 및 소품 제작·납품 완료, **제작 매출 1,000만 원 달성**
-
-※ 얼굴 스컬핑 및 의상 모델링은 외부 아티스트와 협업, 리깅·애니메이션은 제작 범위에서 제외
-
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
 ### 01. 굴절 RDG Pass  (KCI 투고완료)
@@ -158,6 +142,23 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 | [RAG + Qdrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 프로토타입 |
 | [실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA) | 실시간 분석·점수 시각화 프로토타입 |
 | [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 |
+
+
+### Korean Traditional Music Virtual Human — Commercial Project
+[🎬 캐릭터 5종 턴어라운드 : Characters & Props](https://youtu.be/zqppkoFIX0g)  
+2026.05 ~ 2026.11 · `Unreal Engine 5` `Maya` `Houdini` `Varco AI Mesh` `Procedural Workflow` 
+
+![virtual Project](Thumnail/KoreanVirtualHuman.png)
+
+**국악 버추얼 휴먼 프로젝트 - 캐릭터 제작 총괄 및 Unreal Engine 기반 3D 캐릭터·소품 제작 납품**
+
+- **Art Direction & Production:** 얼굴 스컬핑·의상 모델러 2명과 협업, 제작 방향 설정 및 에셋 검수·수정 총괄
+- **Maya / Houdini Asset Pipeline:** Varco AI 기반 Base Mesh 및 외부 제작 에셋 통합, Mesh 구조 정리 및 최종 에셋 구성
+- **Procedural Asset Automation:** Houdini 기반 Prop Scale 자동 조정 툴을 활용한 소품 크기·비율 일괄 조정 및 반복 작업 효율화
+- **Unreal Engine Integration:** 캐릭터·의상·소품 에셋 통합, Material Instance 분리·설정 및 최종 Scene 구성
+- **Commercial Delivery:** 캐릭터 모델링 에셋 5종 및 소품 제작·납품 완료, **제작 매출 1,000만 원 달성**
+
+※ 얼굴 스컬핑 및 의상 모델링은 외부 아티스트와 협업, 리깅·애니메이션은 제작 범위에서 제외
 
 
 ## 🎓 Education & Awards
