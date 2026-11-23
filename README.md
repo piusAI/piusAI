@@ -62,7 +62,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 - UE Niagara Cascade **실시간 게임 VFX 포트폴리오 제작**
 - Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
-- Houdini 절차적 Mesh 및 파괴 이펙트** 제작
+- Houdini 절차적 Mesh 및 파괴 이펙트 제작
 
 <table>
   <tr>
