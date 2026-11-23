@@ -23,14 +23,23 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **Optimization**: CPU/GPU Profiling, Shader Optimization, VFX Optimization, Performance Analysis
 - 🔗 [Technical Blog](https://piusai.github.io/) — Unreal C++, DirectX, Game Engine Architecture,HLSL, Houdini 기술 학습·구현 및 분석 기록
 
+### DirectX 11 — ThorPrj
+[💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
+**2026.06** · `C++` `DirectX 11` `HLSL`
+
+![DirectX 11 Demo](Thumnail/DirectX.gif)
+
+- C++ 기반 DirectX 11 Rendering FrameWork 구현 및 그래픽스 파이프라인 학습
+- Vertex / Pixel Shader, GPU Resource Binding / Rendering 흐름 이해
+- 상용 엔진의 하위 렌더링 구조를 이해하기 위한 기술 기반
 
 ## 🚩 Main Portfolio
 
 ### 01. VFX Tech Art
-- 제작중
-
+- Chaos Module · Houdini 연동
+- 
 ### 02. Shader Tech Art
-- 제작중
+- usf
 
 ### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
 [🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
@@ -84,8 +93,18 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 
 ## 🕹️ Game & Shipping Project
+### 01. Beat & Beasties — Steam Demo
+[🎮 Steam 데모](https://store.steampowered.com/app/4267610/Beat__Beasties/)  
+**2025.09 ~ 2026.03** · `Unity` `C#` `Houdini`
 
-### 01. Project Re;Hue — Unreal Engine Action & Technical Art
+![Beat & Beasties](Thumnail/BeatBeasties.png)
+
+- **참여 역할:** 메인 아트 총괄 및 플레이어블 핵심 개발 참여
+- 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축, 반복 제작·테스트 효율 개선
+- 실제 게임 프로젝트의 개발·협업·데모 배포
+
+
+### 02. Project Re;Hue — Unreal Engine Action & Technical Art
 [🎞️ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
 
 ![ProjectRehue](Thumnail/ProjectRH.png)
@@ -105,27 +124,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - Optimization: Unreal Insights 및 CPU/GPU Profiling 기반 성능 검증 계획
 ※ 전투·셰이더·물리 파괴 시스템은 개발 예정 항목이며, 구현 범위는 프로토타입 검증 결과에 따라 조정
 
-### 02. DirectX 11 — ThorPrj
-[💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
-**2026.06** · `C++` `DirectX 11` `HLSL`
 
-![DirectX 11 Demo](Thumnail/DirectX.gif)
-
-- C++ 기반 DirectX 11 Rendering FrameWork 구현 및 그래픽스 파이프라인 학습
-- Vertex / Pixel Shader, GPU Resource Binding / Rendering 흐름 이해
-- 상용 엔진의 하위 렌더링 구조를 이해하기 위한 기술 기반
-
-### 03. Beat & Beasties — Steam Demo
-[🎮 Steam 데모](https://store.steampowered.com/app/4267610/Beat__Beasties/)  
-**2025.09 ~ 2026.03** · `Unity` `C#` `Houdini`
-
-![Beat & Beasties](Thumnail/BeatBeasties.png)
-
-- **참여 역할:** 메인 아트 총괄 및 플레이어블 핵심 개발 참여
-- 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축, 반복 제작·테스트 효율 개선
-- 실제 게임 프로젝트의 개발·협업·데모 배포
-
-### 04. Q-Pop Girl — Steam Release
+### 03. Q-Pop Girl — Steam Release
 [🎮 Steam 정식 출시](https://store.steampowered.com/app/4157070/QPopGirl/)  
 **2025.12 ~ 2026.05** · `Unity` `C#`
 
@@ -134,7 +134,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
 - 게임 콘텐츠를 실제로 완성하고 배포
 
-### 05. XR KickClay — Unreal Engine Interactive XR
+### 04. XR KickClay — Unreal Engine Interactive XR
 [🎞️ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
 **2025.06 ~ 2025.10** · `Unreal Engine 5` `XR` `Realtime Input` `Optimization`
 
