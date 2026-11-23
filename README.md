@@ -85,6 +85,9 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
 - Houdini 기반 **VAT(Vertex Animation Texture), 절차적 Mesh 및 파괴 이펙트** 제작
 - 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
+
+[🎞️ 고화질 연상](https://www.youtube.com/watch?v=ifUBRqQ0h1Y)  
+![VAT Blood](Thumnail/VATBlood.gif)
   
 ### 06. XR KickClay — Unreal Engine Interactive XR
 [🎞️ 시연 영상](https://www.youtube.com/watch?v=fMi-oCwVEYk) · [📄 최적화 관련 논문](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)  
