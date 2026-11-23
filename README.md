@@ -26,10 +26,10 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🚩 Main Portfolio
 
-### 01. VFX Tool
+### 01. VFX Tech Art
 - 제작중
 
-### 02. Shader Tool
+### 02. Shader Tech Art
 - 제작중
 
 ### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
@@ -38,10 +38,9 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
 
-- Unreal Engine 기반 **실시간 게임 VFX 포트폴리오 제작**
+- UE Niagara Cascade **실시간 게임 VFX 포트폴리오 제작**
 - Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
 - Houdini 절차적 Mesh 및 파괴 이펙트** 제작
-- 아트 제작 경험을 바탕으로 GPU 렌더링·셰이더·VFX 최적화 분야로 기술 역량 확장
 
 ![VAT Blood](Thumnail/VATBlood.gif)
 - Houdini 기반 VAT Blood Fluid Simulation
