@@ -91,17 +91,28 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
-### 01. NCAi R&D - Physics Destruction & Motion Semantics
-#### A. Physics GameReady Asset Pipeline - Chaos Destruction
-`VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`  
-- VARCO 3D Asset Mesh Parts와 Parts별 물리 속성을 Unreal Geometry Collection과 연동해 자동 연동 파이프라인 연구 中
-- Geometry Collection -> Chaos와 연동해 충돌 시 파츠가 분리, 물리 시뮬레이션으로 움직이는 런타임 파괴 구조 구현
+### 01. NCAi R&D — Game-Ready Asset & Physics Pipeline
 
-#### B. Animation Motion Semantic  
-[🎞️ 시연 영상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)  
+#### A. Physics Game-Ready Asset Pipeline — Chaos Destruction
+`VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`
+
+- VARCO 3D Asset Mesh Parts와 부품별 물리 속성을 Unreal Geometry Collection에 연동하는 자동화 파이프라인 연구
+- Geometry Collection과 Chaos Physics를 연동하여 충돌 시 부품이 분리되고 물리적으로 반응하는 런타임 파괴 구조 구현
+- 재질별 Fracture 및 Clustering 자동화 연구 진행 중
+
+#### B. MatCut — Shape & Material-Aware Mesh Segmentation
+`Mesh Processing` `Material Segmentation` `Graph Cut` `Watertight Mesh`
+
+- 형상과 재질 정보를 결합한 3차원 메시의 부품 분할 및 절단 기술 공동 연구 (제2저자)
+- 형상 기반 분할, 이미지 기반 재질 분할, Graph Cut 기반 Mesh Labeling 및 수밀화 기술 연구
+- 발명신고 및 특허 출원 준비 중 (2026.11)
+- 분할된 Mesh Chunk를 Unreal Geometry Collection과 연동하는 자동화 파괴 에셋 제작 파이프라인 검토
+
+#### C. Animation Motion Semantics
+[🎞️ 시연 영상](https://www.youtube.com/watch?v=jmdcgkskIqw&feature=youtu.be)
+
 - FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
-
 
 ### 02. Active Interaction Zone : Dynamic Tessellation (보류中..)
 [🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
