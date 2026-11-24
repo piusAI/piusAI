@@ -103,6 +103,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 #### B. MatCut — Shape & Material-Aware Mesh Segmentation
 `Mesh Processing` `Material Segmentation` `Graph Cut` `Watertight Mesh`
 
+![MatCut](Thumnail/MatCut.png)
+
 - 형상과 재질 정보를 결합한 3차원 메시의 부품 분할 및 절단 기술 공동 연구 (제2저자)
 - 형상 기반 분할, 이미지 기반 재질 분할, Graph Cut 기반 Mesh Labeling 및 수밀화 기술 연구
 - 발명신고 및 특허 출원 준비 중 (2026.11)
