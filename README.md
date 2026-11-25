@@ -206,6 +206,20 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 | [실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA) | 실시간 분석·점수 시각화 프로토타입 |
 | [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 |
 
+
+## 🎨 Art Production Pipeline & Background
+
+3D 콘텐츠 제작 과정 전반에 대한 이해를 바탕으로 모델링부터 애니메이션, 셰이딩 및 실시간 VFX까지 다양한 제작 과정을 경험했습니다.
+
+각 제작 단계의 데이터 구조와 에셋 제작 흐름을 이해하고 있으며, 이러한 아트 제작 경험을 바탕으로 아티스트와 엔진 사이의 작업 파이프라인을 연결하는 Technical Art에 집중하고 있습니다.
+
+| **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
+|:---:|:---:|:---:|:---:|
+| ![ClothModeling](Thumnail/001_MarvelousDesigner_ClothModeling.gif) | ![HardSurface](Thumnail/01_모델링01_하드서페이스.gif) | ![Sculpting](Thumnail/02_모델링02_스컬핑.gif) | ![RenderT](Thumnail/04_렌더링02_쉐이딩.gif) |
+| **Animation** | **Rigging & Skinning** | **Character Animation** | **VFX Multi-Pass** |
+| ![Animation](Thumnail/05_애니메이션01.gif) | ![Rigging](Thumnail/06_리깅_웨이트페인팅.gif) | ![Anim](Thumnail/07_애니메이션02.gif) | ![VFXMultipass](Thumnail/09_VFX_멀티패스.gif) |
+
+
 ## 🎓 Education & Awards
 
 - **홍익대학교 게임 관련 석사 과정:** 2025.09 ~ 2027.08 (졸업 예정)
