@@ -158,7 +158,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 [🎮 Steam 데모](https://store.steampowered.com/app/4267610/Beat__Beasties/)  
 **2025.09 ~ 2026.03** · `Unity` `C#` `Houdini`
 
-![Beat & Beasties](Thumnail/BeatBeasties.png)
+<img src="Thumnail/BeatBeasties.png" width="700" alt="Beat &amp; Beasties">
 
 - **참여 역할:** 메인 아트 총괄 및 플레이어블 핵심 개발 참여
 - 레벨 디자이너를 위한 Houdini HDA 파이프라인 구축, 반복 제작·테스트 효율 개선
@@ -168,7 +168,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ### 02. Project Re;Hue — Unreal Engine Action & Technical Art
 [🎞️ 초기 개발 영상](https://youtu.be/py8AtDtcPaM)
 
-![ProjectRehue](Thumnail/ProjectRH.png)
+<img src="Thumnail/ProjectRH.png" width="700" alt="Project Re;Hue">
 **2026.11 ~ 진행 중 | 2027년 3월 Steam 출시 계획**
 
 `Unreal Engine 5` `C++` `HLSL` `Niagara` `Houdini` `Chaos` `VARCO 3D`
@@ -190,7 +190,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 [🎮 Steam 정식 출시](https://store.steampowered.com/app/4157070/QPopGirl/)  
 **2025.12 ~ 2026.05** · `Unity` `C#`
 
-![Q-Pop Girl](Thumnail/Qpopgirl.png)
+<img src="Thumnail/Qpopgirl.png" width="700" alt="Q-Pop Girl">
 
 - **참여 역할:** Steam 론칭 빌드 및 퍼블리싱 과정 주도, 아트·콘텐츠 폴리싱 참여
 - 게임 콘텐츠를 실제로 완성하고 배포
