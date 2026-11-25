@@ -201,31 +201,35 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 | 프로젝트 / 작업 | 내용 |
 | --- | --- |
 | [Unity-HDA](https://youtu.be/5EGHmrIraA0) | Houdini HDA 기반 Unity 맵 생성 프로토타입 |
-| [Houdini Procedural Modeling](https://www.youtube.com/playlist?list=PLcBkRBTJf8ZI9YiDyFrWVfVmLf8Bs3cWU) | VEX / HDA를 활용한 절차적 모델링 및 파이프라인 |
 | [RAG + Qdrant + Streamlit](https://youtube.com/shorts/fpU0kqvtkbo) | RAG 기반 프로토타입 |
 | [실시간 자세 추정 및 점수 시각화](https://youtu.be/2spXeHQ4doA) | 실시간 분석·점수 시각화 프로토타입 |
 | [VFX Art Portfolio](https://www.artstation.com/piusai) | Unreal / Houdini 기반 FX, VAT / SDF / Destruction 제작 |
 
-
 ## 🎨 Art Production Pipeline & Background
 
-3D 콘텐츠 제작 과정 전반에 대한 이해를 바탕으로 모델링부터 애니메이션, 셰이딩 및 실시간 VFX까지 다양한 제작 과정 이해 
+3D 콘텐츠 제작 과정 전반에 대한 이해를 바탕으로 모델링부터 애니메이션, 셰이딩 및 실시간 VFX까지 다양한 제작 과정을 경험했습니다.  
 각 제작 단계의 데이터 구조와 에셋 제작 흐름을 이해하고 있으며, 이러한 아트 제작 경험을 바탕으로 현재는 아티스트와 엔진 사이의 작업 파이프라인을 연결하는 Technical Art에 집중하고 있습니다.
 
 ### Procedural Modeling (Houdini)
 
-| **Tissue** | **Mirror** | **Hanging Light** |
-|:---:|:---:|:---:|
-| ![Tissue](Thumnail/001Tisue.gif) | ![Mirror](Thumnail/002Mirror.gif) | ![Light](Thumnail/003Light.gif) |
-| **Lighter** | **House** | **Utility Pole** |
-| ![Lighter](Thumnail/004Lighter.gif) | ![House](Thumnail/005House.gif) | ![Pole](Thumnail/006Pole.gif) |
+<table>
+  <tr>
+    <td align="center"><img src="Thumnail/001Tisue.gif" width="250" alt="Tissue"></td>
+    <td align="center"><img src="Thumnail/002Mirror.gif" width="250" alt="Mirror"></td>
+    <td align="center"><img src="Thumnail/003Light.gif" width="250" alt="Hanging Light"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Thumnail/004Lighter.gif" width="250" alt="Lighter"></td>
+    <td align="center"><img src="Thumnail/005House.gif" width="250" alt="House"></td>
+    <td align="center"><img src="Thumnail/006Pole.gif" width="250" alt="Utility Pole"></td>
+  </tr>
+</table>
 
 | **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
 |:---:|:---:|:---:|:---:|
 | ![ClothModeling](Thumnail/001_Cloth.gif) | ![HardSurface](Thumnail/002_Hardsurface.gif) | ![Sculpting](Thumnail/003_Sculpting.gif) | ![RenderT](Thumnail/004_MayaTx.gif) |
 | **Animation** | **Rigging & Skinning** | **Character Animation** | **VFX Multi-Pass** |
 | ![Animation](Thumnail/005_MayaAnim.gif) | ![Rigging](Thumnail/006_WeightPaint.gif) | ![Anim](Thumnail/007_Animation.gif) | ![VFXMultipass](Thumnail/008_VFXNuke.gif) |
-
 
 ## 🎓 Education & Awards
 
