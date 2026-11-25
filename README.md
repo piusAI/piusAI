@@ -63,14 +63,6 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
 
-- UE Niagara Cascade **실시간 게임 VFX 포트폴리오 제작**
-- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
-- Houdini 절차적 Mesh 및 파괴 이펙트 제작
-
-### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
-[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
-**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `Cascade` `VFX` `VAT`
-
 <table>
   <tr>
     <td align="center"><img src="Thumnail/VFX/PF01.gif" width="260" alt="OTS 01"></td>
@@ -94,7 +86,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
   </tr>
 </table>
 
-- UE Niagara·Cascade 기반 **실시간 게임 VFX 포트폴리오 제작**
+- UE Niagara Cascade **실시간 게임 VFX 포트폴리오 제작**
 - Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
 - Houdini 절차적 Mesh 및 파괴 이펙트 제작
 
