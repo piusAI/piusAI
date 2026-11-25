@@ -214,16 +214,16 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 <table>
   <tr>
-    <td align="center"><img src="Thumnail/001Tisue.gif" width="250" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/002Mirror.gif" width="250" alt="Mirror"></td>
-    <td align="center"><img src="Thumnail/003Light.gif" width="250" alt="Hanging Light"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Thumnail/004Lighter.gif" width="250" alt="Lighter"></td>
-    <td align="center"><img src="Thumnail/005House.gif" width="250" alt="House"></td>
-    <td align="center"><img src="Thumnail/006Pole.gif" width="250" alt="Utility Pole"></td>
+    <td align="center"><img src="Thumnail/001Tisue.gif" width="145" alt="Tissue"></td>
+    <td align="center"><img src="Thumnail/002Mirror.gif" width="145" alt="Mirror"></td>
+    <td align="center"><img src="Thumnail/003Light.gif" width="145" alt="Hanging Light"></td>
+    <td align="center"><img src="Thumnail/004Lighter.gif" width="145" alt="Lighter"></td>
+    <td align="center"><img src="Thumnail/005House.gif" width="145" alt="House"></td>
+    <td align="center"><img src="Thumnail/006Pole.gif" width="145" alt="Utility Pole"></td>
   </tr>
 </table>
+
+### Offline Art Pipeline (Maya & Nuke)
 
 | **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
 |:---:|:---:|:---:|:---:|
@@ -231,9 +231,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 | **Animation** | **Rigging & Skinning** | **Character Animation** | **VFX Multi-Pass** |
 | ![Animation](Thumnail/005_MayaAnim.gif) | ![Rigging](Thumnail/006_WeightPaint.gif) | ![Anim](Thumnail/007_Animation.gif) | ![VFXMultipass](Thumnail/008_VFXNuke.gif) |
 
-## 🎓 Education & Awards
-
-- **홍익대학교 게임 관련 석사 과정:** 2025.09 ~ 2027.08 (졸업 예정)
+## 🎓 Education & Awards  
+- **홍익대학교 게임 학부 석사** : 2025.09 ~ 2027.08 (졸업 예정)
 - **2025 한국게임학회 추계 학술대회 논문 우수상:** [언리얼 엔진5 기반 하이브리드 프로젝션 XR 환경 성능 최적화](https://github.com/piusAI/piusAI/blob/main/Performance%20Optimization%20of%20a%20Hybrid%20XR%20Environment%20Based%20on%20Unreal%20Engine%205.pdf)
 
 ## 📬 Contact
