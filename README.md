@@ -65,23 +65,23 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 <table>
   <tr>
-    <td align="center"><img src="Thumnail/VFX/PF01_OTS.gif" width="260" alt="OTS 01"></td>
-    <td align="center"><img src="Thumnail/VFX/PF02_0210.gif" width="260" alt="VFX 02"></td>
-    <td align="center"><img src="Thumnail/VFX/PF03_1219_Main.gif" width="260" alt="Main 03"></td>
+    <td align="center"><img src="Thumnail/PF01_OTS.gif" width="260" alt="OTS 01"></td>
+    <td align="center"><img src="Thumnail/PF02_0210.gif" width="260" alt="VFX 02"></td>
+    <td align="center"><img src="Thumnail/PF03_1219_Main.gif" width="260" alt="Main 03"></td>
   </tr>
   <tr>
-    <td align="center"><img src="Thumnail/VFX/PF04_OTS.gif" width="260" alt="OTS 04"></td>
-    <td align="center"><img src="Thumnail/VFX/PF05_Shield.gif" width="260" alt="Shield"></td>
-    <td align="center"><img src="Thumnail/VFX/PF06_Devil_Sword.gif" width="260" alt="Devil Sword"></td>
+    <td align="center"><img src="Thumnail/PF04_OTS.gif" width="260" alt="OTS 04"></td>
+    <td align="center"><img src="Thumnail/PF05_Shield.gif" width="260" alt="Shield"></td>
+    <td align="center"><img src="Thumnail/PF06_Devil_Sword.gif" width="260" alt="Devil Sword"></td>
   </tr>
   <tr>
-    <td align="center"><img src="Thumnail/VFX/PF07_FPS_Main.gif" width="260" alt="FPS"></td>
-    <td align="center"><img src="Thumnail/VFX/PF08_Punch.gif" width="260" alt="Punch"></td>
-    <td align="center"><img src="Thumnail/VFX/PF09_1229.gif" width="260" alt="VFX 09"></td>
+    <td align="center"><img src="Thumnail/PF07_FPS_Main.gif" width="260" alt="FPS"></td>
+    <td align="center"><img src="Thumnail/PF08_Punch.gif" width="260" alt="Punch"></td>
+    <td align="center"><img src="Thumnail/PF09_1229.gif" width="260" alt="VFX 09"></td>
   </tr>
   <tr>
-    <td align="center"><img src="Thumnail/VFX/PF10_Last.gif" width="260" alt="VFX 10"></td>
-    <td align="center"><img src="Thumnail/VFX/PF11_0213.gif" width="260" alt="VFX 11"></td>
+    <td align="center"><img src="Thumnail/PF10_Last.gif" width="260" alt="VFX 10"></td>
+    <td align="center"><img src="Thumnail/PF11_0213.gif" width="260" alt="VFX 11"></td>
     <td align="center"><a href="https://www.artstation.com/piusai"><b>🎨 View More<br>on ArtStation</b></a></td>
   </tr>
 </table>
