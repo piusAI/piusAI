@@ -67,6 +67,38 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
 - Houdini 절차적 Mesh 및 파괴 이펙트 제작
 
+### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
+[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
+**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `Cascade` `VFX` `VAT`
+
+<table>
+  <tr>
+    <td align="center"><img src="Thumnail/VFX/PF01.gif" width="260" alt="OTS 01"></td>
+    <td align="center"><img src="Thumnail/VFX/PF02.gif" width="260" alt="VFX 02"></td>
+    <td align="center"><img src="Thumnail/VFX/PF03.gif" width="260" alt="Main 03"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Thumnail/VFX/PF04.gif" width="260" alt="OTS 04"></td>
+    <td align="center"><img src="Thumnail/VFX/PF05.gif" width="260" alt="Shield"></td>
+    <td align="center"><img src="Thumnail/VFX/PF06.gif" width="260" alt="Devil Sword"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Thumnail/VFX/PF07.gif" width="260" alt="FPS"></td>
+    <td align="center"><img src="Thumnail/VFX/PF08.gif" width="260" alt="Punch"></td>
+    <td align="center"><img src="Thumnail/VFX/PF09.gif" width="260" alt="VFX 09"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Thumnail/VFX/PF10.gif" width="260" alt="VFX 10"></td>
+    <td align="center"><img src="Thumnail/VFX/PF11.gif" width="260" alt="VFX 11"></td>
+    <td align="center"><a href="https://www.artstation.com/piusai"><b>🎨 View More<br>on ArtStation</b></a></td>
+  </tr>
+</table>
+
+- UE Niagara·Cascade 기반 **실시간 게임 VFX 포트폴리오 제작**
+- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
+- Houdini 절차적 Mesh 및 파괴 이펙트 제작
+
+
 <table>
   <tr>
     <td align="center">
