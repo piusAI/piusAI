@@ -252,8 +252,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ### Offline Art Pipeline (Maya & Nuke)
 
-
-<details> : ArtPipeline 더 보기
+↓ ArtPipeline 더 보기 ↓
+<details> 
   
 | **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
 |:---:|:---:|:---:|:---:|
