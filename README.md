@@ -214,12 +214,12 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 <table>
   <tr>
-    <td align="center"><img src="Thumnail/001Tisue.gif" width="250" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/002Mirror.gif" width="250" alt="Mirror"></td>
-    <td align="center"><img src="Thumnail/003Light.gif" width="250" alt="Hanging Light"></td>
-    <td align="center"><img src="Thumnail/004Lighter.gif" width="250" alt="Lighter"></td>
-    <td align="center"><img src="Thumnail/005House.gif" width="250" alt="House"></td>
-    <td align="center"><img src="Thumnail/006Pole.gif" width="250" alt="Utility Pole"></td>
+    <td align="center"><img src="Thumnail/001Tisue.gif" width="120" alt="Tissue"></td>
+    <td align="center"><img src="Thumnail/002Mirror.gif" width="120" alt="Mirror"></td>
+    <td align="center"><img src="Thumnail/003Light.gif" width="120" alt="Hanging Light"></td>
+    <td align="center"><img src="Thumnail/004Lighter.gif" width="120" alt="Lighter"></td>
+    <td align="center"><img src="Thumnail/005House.gif" width="120" alt="House"></td>
+    <td align="center"><img src="Thumnail/006Pole.gif" width="120" alt="Utility Pole"></td>
   </tr>
 </table>
 
