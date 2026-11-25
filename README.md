@@ -1,3 +1,5 @@
+<img src="Thumnail/hyojoonProfile.jpeg" align="right" width="180" alt="황효준 프로필">
+
 # 🎇 VFX / Rendering Technical Artist
 
 ▸ Real-Time VFX, Shader, Physics 기반 파괴 연출 및 최적화를 중심으로  
@@ -10,6 +12,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 시각적 완성도와 실시간 성능을 조율 하는데에 관심을 두고 있습니다.
 
 **관심 분야** : Real-Time VFX · Houdini / Procedural Workflow · Shader / HLSL · Chaos Destruction · Optimization
+<br clear="right">
 
 ## 🛠 Tech Stack
 
