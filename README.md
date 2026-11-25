@@ -210,7 +210,15 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ## 🎨 Art Production Pipeline & Background
 
 3D 콘텐츠 제작 과정 전반에 대한 이해를 바탕으로 모델링부터 애니메이션, 셰이딩 및 실시간 VFX까지 다양한 제작 과정 이해 
-각 제작 단계의 데이터 구조와 에셋 제작 흐름을 이해하고 있으며, 이러한 아트 제작 경험을 바탕으로 현재는, 아티스트와 엔진 사이의 작업 파이프라인을 연결하는 Technical Art에 집중
+각 제작 단계의 데이터 구조와 에셋 제작 흐름을 이해하고 있으며, 이러한 아트 제작 경험을 바탕으로 현재는 아티스트와 엔진 사이의 작업 파이프라인을 연결하는 Technical Art에 집중하고 있습니다.
+
+### Procedural Modeling (Houdini)
+
+| **Tissue** | **Mirror** | **Hanging Light** |
+|:---:|:---:|:---:|
+| ![Tissue](Thumnail/001Tisue.gif) | ![Mirror](Thumnail/002Mirror.gif) | ![Light](Thumnail/003Light.gif) |
+| **Lighter** | **House** | **Utility Pole** |
+| ![Lighter](Thumnail/004Lighter.gif) | ![House](Thumnail/005House.gif) | ![Pole](Thumnail/006Pole.gif) |
 
 | **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
 |:---:|:---:|:---:|:---:|
