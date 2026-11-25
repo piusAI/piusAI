@@ -215,9 +215,9 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 | **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
 |:---:|:---:|:---:|:---:|
-| ![ClothModeling](Thumnail/001_MarvelousDesigner_ClothModeling.gif) | ![HardSurface](Thumnail/01_모델링01_하드서페이스.gif) | ![Sculpting](Thumnail/02_모델링02_스컬핑.gif) | ![RenderT](Thumnail/04_렌더링02_쉐이딩.gif) |
+| ![ClothModeling](Thumnail/001_Cloth.gif) | ![HardSurface](Thumnail/002_Hardsurface.gif) | ![Sculpting](Thumnail/003_Sculpting.gif) | ![RenderT](Thumnail/004_MayaTx.gif) |
 | **Animation** | **Rigging & Skinning** | **Character Animation** | **VFX Multi-Pass** |
-| ![Animation](Thumnail/05_애니메이션01.gif) | ![Rigging](Thumnail/06_리깅_웨이트페인팅.gif) | ![Anim](Thumnail/07_애니메이션02.gif) | ![VFXMultipass](Thumnail/09_VFX_멀티패스.gif) |
+| ![Animation](Thumnail/005_MayaAnim.gif) | ![Rigging](Thumnail/006_WeightPaint.gif) | ![Anim](Thumnail/007_Animation.gif) | ![VFXMultipass](Thumnail/008_VFXNuke.gif) |
 
 
 ## 🎓 Education & Awards
