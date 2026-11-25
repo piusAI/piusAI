@@ -1,6 +1,6 @@
-<img src="Thumnail/hyojoonProfile.jpeg" align="right" width="180" alt="황효준 프로필">
 
 # 🎇 VFX / Rendering Technical Artist
+<img src="Thumnail/hyojoonProfile.jpeg" align="right" width="180" alt="황효준 프로필">
 
 ▸ Real-Time VFX, Shader, Physics 기반 파괴 연출 및 최적화를 중심으로  
 아트와 엔진 기술을 연결하는 **Technical Artist 황효준**입니다.  
