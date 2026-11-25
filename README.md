@@ -214,14 +214,16 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 <table>
   <tr>
-    <td align="center"><img src="Thumnail/001Tisue.gif" width="140" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/002Mirror.gif" width="140" alt="Mirror"></td>
-    <td align="center"><img src="Thumnail/003Light.gif" width="140" alt="Hanging Light"></td>
-    <td align="center"><img src="Thumnail/004Lighter.gif" width="140" alt="Lighter"></td>
-    <td align="center"><img src="Thumnail/005House.gif" width="140" alt="House"></td>
-    <td align="center"><img src="Thumnail/006Pole.gif" width="140" alt="Utility Pole"></td>
+    <td align="center"><img src="Thumnail/001Tisue.gif" width="145" alt="Tissue"></td>
+    <td align="center"><img src="Thumnail/002Mirror.gif" width="145" alt="Mirror"></td>
+    <td align="center"><img src="Thumnail/003Light.gif" width="145" alt="Hanging Light"></td>
+    <td align="center"><img src="Thumnail/004Lighter.gif" width="145" alt="Lighter"></td>
+    <td align="center"><img src="Thumnail/005House.gif" width="145" alt="House"></td>
+    <td align="center"><img src="Thumnail/006Pole.gif" width="145" alt="Utility Pole"></td>
   </tr>
 </table>
+
+### Offline Art Pipeline (Maya & Nuke)
 
 | **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
 |:---:|:---:|:---:|:---:|
