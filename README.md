@@ -57,38 +57,35 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **Shader Profiling** — Shader Complexity로 비용이 높은 구간을 찾고, 텍스처 샘플과 셰이더 명령 수를 확인. 동일한 장면에서 최적화 전후의 GPU 시간 비교.
 
 
-### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
-[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
-**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `CasCade` `VFX` `VAT`
 
-![Real-Time VFX Portfolio](Thumnail/EffectPortfolio.png)
+### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
+
+[🎨 ArtStation VFX Portfolio](https://www.artstation.com/piusai)  
+**2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `Cascade` `VFX` `VAT`
 
 <table>
   <tr>
-    <td align="center"><img src="Thumnail/PF01_OTS.gif" width="260" alt="OTS 01"></td>
-    <td align="center"><img src="Thumnail/PF02_0210.gif" width="260" alt="VFX 02"></td>
-    <td align="center"><img src="Thumnail/PF03_1219_Main.gif" width="260" alt="Main 03"></td>
+    <td align="center"><img src="Thumnail/PF01_OTS.gif" width="280" alt="OTS 01"></td>
+    <td align="center"><img src="Thumnail/PF03_1219_Main.gif" width="280" alt="Main 03"></td>
+    <td align="center"><img src="Thumnail/PF04_OTS.gif" width="280" alt="OTS 04"></td>
   </tr>
   <tr>
-    <td align="center"><img src="Thumnail/PF04_OTS.gif" width="260" alt="OTS 04"></td>
-    <td align="center"><img src="Thumnail/PF05_Shield.gif" width="260" alt="Shield"></td>
-    <td align="center"><img src="Thumnail/PF06_Devil_Sword.gif" width="260" alt="Devil Sword"></td>
+    <td align="center"><img src="Thumnail/PF05_Shield.gif" width="280" alt="Shield"></td>
+    <td align="center"><img src="Thumnail/PF06_Devil_Sword.gif" width="280" alt="Devil Sword"></td>
+    <td align="center"><img src="Thumnail/PF07_FPS_Main.gif" width="280" alt="FPS"></td>
   </tr>
   <tr>
-    <td align="center"><img src="Thumnail/PF07_FPS_Main.gif" width="260" alt="FPS"></td>
-    <td align="center"><img src="Thumnail/PF08_Punch.gif" width="260" alt="Punch"></td>
-    <td align="center"><img src="Thumnail/PF09_1229.gif" width="260" alt="VFX 09"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Thumnail/PF10_Last.gif" width="260" alt="VFX 10"></td>
-    <td align="center"><img src="Thumnail/PF11_0213.gif" width="260" alt="VFX 11"></td>
-    <td align="center"><a href="https://www.artstation.com/piusai"><b>🎨 View More<br>on ArtStation</b></a></td>
+    <td align="center"><img src="Thumnail/PF08_Punch.gif" width="280" alt="Punch"></td>
+    <td align="center"><img src="Thumnail/PF09_1229.gif" width="280" alt="VFX 09"></td>
+    <td align="center"><img src="Thumnail/PF10_Last.gif" width="280" alt="VFX 10"></td>
   </tr>
 </table>
 
-- UE Niagara Cascade **실시간 게임 VFX 포트폴리오 제작**
-- Niagara, Material, Shader를 활용한 다양한 게임 이펙트 구현
-- Houdini 절차적 Mesh 및 파괴 이펙트 제작
+- Niagara / Cascade 기반 실시간 게임 VFX 제작
+- Material / Shader 기반 이펙트 표현 및 Look Development
+- Houdini 기반 Procedural Mesh 및 Destruction 제작
+- Vertex Animation Texture(VAT)를 활용한 시뮬레이션 기반 실시간 VFX 구현
+
 
 
 <table>
