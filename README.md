@@ -241,13 +241,13 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 <table>
   <tr>
-    <td align="center"><img src="Thumnail/Procedural/01Tree.gif" width="145" alt="Tree"></td>
-    <td align="center"><img src="Thumnail/Procedural/02Tisue.gif" width="145" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/Procedural/03Mirror.gif" width="145" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/Procedural/04Light.gif" width="145" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/Procedural/05Lighter.gif" width="145" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/Procedural/06House.gif" width="145" alt="Tissue"></td>
-    <td align="center"><img src="Thumnail/Procedural/07Pole.gif" width="145" alt="Tissue"></td>
+    <td align="center"><img src="Thumnail/Procedural/01Tree.gif" height="145" alt="Tree"></td>
+    <td align="center"><img src="Thumnail/Procedural/02Tisue.gif" height="145" alt="Tissue"></td>
+    <td align="center"><img src="Thumnail/Procedural/03Mirror.gif" height="145" alt="Mirror"></td>
+    <td align="center"><img src="Thumnail/Procedural/04Light.gif" height="145" alt="Light"></td>
+    <td align="center"><img src="Thumnail/Procedural/05Lighter.gif" height="145" alt="Lighter"></td>
+    <td align="center"><img src="Thumnail/Procedural/06House.gif" height="145" alt="House"></td>
+    <td align="center"><img src="Thumnail/Procedural/07Pole.gif" height="145" alt="Pole"></td>
   </tr>
 </table>
 
