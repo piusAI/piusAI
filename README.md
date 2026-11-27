@@ -256,8 +256,8 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 | **Cloth Modeling** | **Hard Surface Modeling** | **Sculpting** | **Rendering & Shading** |
 |:---:|:---:|:---:|:---:|
 | ![ClothModeling](Thumnail/001_Cloth.gif) | ![HardSurface](Thumnail/002_Hardsurface.gif) | ![Sculpting](Thumnail/003_Sculpting.gif) | ![RenderT](Thumnail/004_MayaTx.gif) |
-| **Animation** | **Rigging & Skinning** | **Character Animation** | **VFX Multi-Pass** |
-| ![Animation](Thumnail/005_MayaAnim.gif) | ![Rigging](Thumnail/006_WeightPaint.gif) | ![Anim](Thumnail/007_Animation.gif) | ![VFXMultipass](Thumnail/008_VFXNuke.gif) |
+| **Animation** | **Rigging & Skinning** | **Texture Hand Mapping** | **VFX Multi-Pass** |
+| ![Animation](Thumnail/005_MayaAnim.gif) | ![Rigging](Thumnail/006_WeightPaint.gif) | ![EmissionMap](Thumnail/EmissionMapMaking.gif) | ![VFXMultipass](Thumnail/008_VFXNuke.gif) |
 
 </details>
 
