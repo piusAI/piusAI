@@ -44,19 +44,15 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 ### 02. Shader Tech Art — Unreal Material & HLSL
 
 #### Screen Space Refraction RDG pass  
-[화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
+[🎞️ 화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
+
 ![Screen-Space Refraction RDG Pass](Thumnail/RefractionThumnail2.png)
+
 `Unreal C++` `RDG` `HLSL `
-- 현재 KCI 투고 완료 (심사 대기 중)
-- UE C++ plugin module에서 RDG Fullscreen pass, HLSL Pixel Shader로 깊이 경계 보정 구현
-
-
-**개발 예정**
-- **Material / VFX Shader** — Depth Fade, Distortion, Dissolve 등 대표 셰이더 2~3개 제작. Material Function과 Material Instance로 재사용할 수 있게 구성, 게임 이벤트와 Niagara를 통해 파라미터 제어.
-- **Unreal C++ / HLSL** — `.usf` / `.ush`와 RDG를 사용한 독립 렌더링 기능 1개를 구현, C++에서 셰이더로 파라미터와 리소스를 전달하는 과정 정리.
-- **Shader Profiling** — Shader Complexity로 비용이 높은 구간을 찾고, 텍스처 샘플과 셰이더 명령 수를 확인. 동일한 장면에서 최적화 전후의 GPU 시간 비교.
-
-
+- Unreal C++ Plugin 기반 커스텀 렌더링 패스 구현
+- RDG Fullscreen Pass 및 HLSL Pixel Shader를 활용한 화면 공간 굴절 구현
+- 깊이 불연속 영역에서의 Newton 기반 굴절 교차점 보정
+- 한국게임학회 논문지(KCI) 투고 완료 — 심사 대기 중
 
 ### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
 
