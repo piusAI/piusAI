@@ -41,20 +41,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - **VFX 성능 분석** — 파편 충돌 설정과 Niagara 파티클 수에 따른 CPU·GPU 프레임 타임을 비교.
 
 
-### 02. Shader Tech Art — Unreal Material & HLSL
-
-#### Screen Space Refraction RDG pass  
-[🎞️ 화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
-
-![Screen-Space Refraction RDG Pass](Thumnail/RefractionThumnail2.png)
-
-`Unreal C++` `RDG` `HLSL `
-- Unreal C++ Plugin 기반 커스텀 렌더링 패스 구현
-- RDG Fullscreen Pass 및 HLSL Pixel Shader를 활용한 화면 공간 굴절 구현
-- 깊이 불연속 영역에서의 Newton 기반 굴절 교차점 보정
-- 한국게임학회 논문지(KCI) 투고 완료 — 심사 대기 중
-
-### 03. Real-Time VFX Portfolio — Unreal Engine & Houdini
+### 02. Real-Time VFX Portfolio — Unreal Engine & Houdini
 
 [🎨 ArtStation VFX Portfolio 11](https://www.artstation.com/piusai)  
 **2024.04 ~ 2025.03** · `Unreal Engine 5` `Houdini` `Niagara` `Cascade` `VFX` `VAT`
@@ -97,7 +84,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 - Houdini Fluid Simulation to VAT Bake, UE 적용
   
-### 04. DirectX 11 — ThorPrj
+### 03. DirectX 11 — ThorPrj
 [💾 소스 코드 및 기술 데모](https://github.com/piusAI/DirectX11_ThorPrj)  
 **2026.06** · `C++` `DirectX 11` `HLSL`
 
@@ -111,7 +98,21 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 
 ## 🔬 Technical R&D — Engine, Interaction & Optimization
 
-### 01. NCAi R&D — Game-Ready Asset & Physics Pipeline
+
+### 01. Screen-Space Refraction - HLSL & RDG
+
+#### Screen Space Refraction RDG pass  
+[🎞️ 화면 공간 굴절 시연 영상](https://www.youtube.com/shorts/oU3UkWu6Gt0)
+
+![Screen-Space Refraction RDG Pass](Thumnail/RefractionThumnail2.png)
+
+`Unreal C++` `RDG` `HLSL `
+- Unreal C++ Plugin 기반 커스텀 렌더링 패스 구현
+- RDG Fullscreen Pass 및 HLSL Pixel Shader를 활용한 화면 공간 굴절 구현
+- 깊이 불연속 영역에서의 Newton 기반 굴절 교차점 보정
+- 한국게임학회 논문지(KCI) 투고 완료 — 심사 대기 중
+
+### 02. NCAi R&D — Game-Ready Asset & Physics Pipeline
 
 #### A. Physics Game-Ready Asset Pipeline — Chaos Destruction
 `VARCO 3D` `Unreal Engine` `Geometry Collection` `Chaos Destruction`
@@ -136,7 +137,7 @@ DirectX 11· C++ · HLSL · Unreal RDG · Chaos Physics까지 기술 영역을 �
 - FBX 애니메이션 기반 Motion Semantic Labeling 및 검색 파이프라인 연구
 - 3D Geometry와 Animation IK, Motion Warping 연동 구조 검토
 
-### 02. Active Interaction Zone : Dynamic Tessellation (보류中..)
+### 03. Active Interaction Zone : Dynamic Tessellation (보류中..)
 [🎞️ 시연 영상](https://youtu.be/5quB66ROCn0)
 ![AIZ Thumnail](Thumnail/AIZThumnail2.png)
 `Unreal Engine` `C++` `HLSL` `Compute Shader` `RDG`
